@@ -1,0 +1,2085 @@
+Bestellung 0: Start Vorarbeitstheke um 0 Minuten
+Bestellung 0: Zuarbeiter*in zugewiesen um 0 Minuten
+Bestellung 0: Geflügel wird in der Fritteuse zubereitet
+Bestellung 0: Warme Zutaten fertig an der Vorarbeitstheke um 9.591191883879198 Minuten
+Bestellung 0: Start Zusammenbau des Burgers um 685.0 Minuten
+Bestellung 0: Burger fertiggestellt und verpackt um 686.5529013188858 Minuten
+Bestellung 0: Burger zur Abholung bereit um 686.5529013188858 Minuten
+Bestellung 1: Start Vorarbeitstheke um 710 Minuten
+Bestellung 1: Zuarbeiter*in zugewiesen um 710 Minuten
+Bestellung 1: Geflügel wird in der Fritteuse zubereitet
+Bestellung 1: Warme Zutaten fertig an der Vorarbeitstheke um 719.4536152412198 Minuten
+Bestellung 1: Start Zusammenbau des Burgers um 735.0 Minuten
+Bestellung 1: Burger fertiggestellt und verpackt um 736.3274118371892 Minuten
+Bestellung 1: Burger zur Abholung bereit um 736.3274118371892 Minuten
+Bestellung 2: Start Vorarbeitstheke um 747 Minuten
+Bestellung 2: Zuarbeiter*in zugewiesen um 747 Minuten
+Bestellung 2: Geflügel wird in der Fritteuse zubereitet
+Bestellung 2: Warme Zutaten fertig an der Vorarbeitstheke um 755.3746222691813 Minuten
+Bestellung 2: Start Zusammenbau des Burgers um 772.0 Minuten
+Bestellung 2: Burger fertiggestellt und verpackt um 773.0070809753656 Minuten
+Bestellung 2: Burger zur Abholung bereit um 773.0070809753656 Minuten
+Bestellung 3: Start Vorarbeitstheke um 817 Minuten
+Bestellung 3: Zuarbeiter*in zugewiesen um 817 Minuten
+Bestellung 3: Fleisch-Pattie wird auf dem Grill angebraten
+Bestellung 3: Fleisch-Pattie zieht im Garschrank durch
+Bestellung 3: Warme Zutaten fertig an der Vorarbeitstheke um 825.0226192729683 Minuten
+Bestellung 3: Start Zusammenbau des Burgers um 842.0 Minuten
+Bestellung 3: Burger fertiggestellt und verpackt um 843.0449430025186 Minuten
+Bestellung 3: Burger zur Abholung bereit um 843.0449430025186 Minuten
+Bestellung 0: Start Vorarbeitstheke um 11:00 (Bestellt um 22:00)
+Bestellung 0: Zuarbeiter*in zugewiesen um 11:00
+Bestellung 0: Geflügel wird in der Fritteuse zubereitet
+Bestellung 0: Warme Zutaten fertig an der Vorarbeitstheke um 11:08:25.856
+Bestellung 0: Start Zusammenbau des Burgers um 22:25
+Bestellung 0: Burger fertiggestellt und verpackt um 22:26:20.913 (Dauer: 26.35 Minuten)
+Bestellung 0: Burger zur Abholung bereit um 22:26:20.913 (Dauer: 26.35 Minuten)
+Bestellung 0: Start Vorarbeitstheke um 11:00 (Bestellt um 22:00)
+Bestellung 0: Zuarbeiter*in zugewiesen um 11:00
+Bestellung 0: Vegetarisch wird in der Fritteuse zubereitet
+Bestellung 0: Warme Zutaten fertig an der Vorarbeitstheke um 11:06
+Bestellung 0: Start Zusammenbau des Burgers um 22:25
+Bestellung 0: Burger fertiggestellt und verpackt um 22:26 (Dauer: 26.12 Minuten)
+Bestellung 0: Burger zur Abholung bereit um 22:26 (Dauer: 26.12 Minuten)
+Bestellung 1: Start Vorarbeitstheke um 23:25 (Bestellt um 23:25)
+Bestellung 1: Zuarbeiter*in zugewiesen um 23:25
+Bestellung 1: Fleisch-Pattie wird auf dem Grill angebraten
+Bestellung 1: Fleisch-Pattie zieht im Garschrank durch
+Bestellung 1: Warme Zutaten fertig an der Vorarbeitstheke um 23:32
+Bestellung 1: Start Zusammenbau des Burgers um 23:50
+Bestellung 1: Burger fertiggestellt und verpackt um 23:51 (Dauer: 26.07 Minuten)
+Bestellung 1: Burger zur Abholung bereit um 23:51 (Dauer: 26.07 Minuten)
+Bestellung 0: Start Vorarbeitstheke um 11:00 (Bestellt um 11:00)
+Bestellung 0: Zuarbeiter*in zugewiesen um 11:00
+Bestellung 0: Vegetarisch wird in der Fritteuse zubereitet
+Bestellung 0: Warme Zutaten fertig an der Vorarbeitstheke um 11:09
+Bestellung 1: Start Vorarbeitstheke um 11:23 (Bestellt um 11:23)
+Bestellung 1: Zuarbeiter*in zugewiesen um 11:23
+Bestellung 1: Vegetarisch wird in der Fritteuse zubereitet
+Bestellung 0: Start Zusammenbau des Burgers um 11:25
+Bestellung 0: Burger fertiggestellt und verpackt um 11:26 (Dauer: 26.46 Minuten)
+Bestellung 0: Burger zur Abholung bereit um 11:26 (Dauer: 26.46 Minuten)
+Bestellung 1: Warme Zutaten fertig an der Vorarbeitstheke um 11:31
+Bestellung 1: Start Zusammenbau des Burgers um 11:48
+Bestellung 1: Burger fertiggestellt und verpackt um 11:49 (Dauer: 26.57 Minuten)
+Bestellung 1: Burger zur Abholung bereit um 11:49 (Dauer: 26.57 Minuten)
+Bestellung 2: Start Vorarbeitstheke um 13:27 (Bestellt um 13:27)
+Bestellung 2: Zuarbeiter*in zugewiesen um 13:27
+Bestellung 2: Vegetarisch wird in der Fritteuse zubereitet
+Bestellung 2: Warme Zutaten fertig an der Vorarbeitstheke um 13:35
+Bestellung 2: Start Zusammenbau des Burgers um 13:52
+Bestellung 2: Burger fertiggestellt und verpackt um 13:53 (Dauer: 26.17 Minuten)
+Bestellung 2: Burger zur Abholung bereit um 13:53 (Dauer: 26.17 Minuten)
+Bestellung 0: Start Vorarbeitstheke um 11:00 (Bestellt um 11:00)
+Bestellung 0: Zuarbeiter*in zugewiesen um 11:00
+Bestellung 0: Zutaten aus Gefrierschrank entnommen nach 0.43 Minuten
+Bestellung 0: Fleisch-Pattie wird auf dem Grill angebraten um 11:00
+Bestellung 0: Fleisch-Pattie zieht im Garschrank durch um 11:03
+Bestellung 0: Warme Zutaten fertig an der Vorarbeitstheke um 11:08
+Bestellung 0: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:25
+Bestellung 0: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:25
+Bestellung 0: Bun getoastet um 11:25
+Bestellung 0: Burger belegt um 11:25
+Bestellung 0: Burger fertiggestellt und verpackt um 11:26 (Dauer: 26.07 Minuten)
+Bestellung 0: Burger zur Abholung bereit um 11:26 (Dauer: 26.07 Minuten)
+Bestellung 1: Start Vorarbeitstheke um 12:27 (Bestellt um 12:27)
+Bestellung 1: Zuarbeiter*in zugewiesen um 12:27
+Bestellung 1: Zutaten aus Gefrierschrank entnommen nach 0.16 Minuten
+Bestellung 1: Vegetarisch wird in der Fritteuse zubereitet um 12:27
+Bestellung 1: Warme Zutaten fertig an der Vorarbeitstheke um 12:36
+Bestellung 1: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:52
+Bestellung 1: Burgermeister beginnt mit dem Zusammenbau des Burgers um 12:52
+Bestellung 1: Bun getoastet um 12:52
+Bestellung 1: Burger belegt um 12:52
+Bestellung 1: Zusätzliche Zeit für Pommes hinzugefügt
+Bestellung 1: Burger fertiggestellt und verpackt um 12:53 (Dauer: 26.36 Minuten)
+Bestellung 1: Burger zur Abholung bereit um 12:53 (Dauer: 26.36 Minuten)
+Bestellung 2: Start Vorarbeitstheke um 12:56 (Bestellt um 12:56)
+Bestellung 2: Zuarbeiter*in zugewiesen um 12:56
+Bestellung 2: Zutaten aus Gefrierschrank entnommen nach 0.34 Minuten
+Bestellung 2: Fleisch-Pattie wird auf dem Grill angebraten um 12:56
+Bestellung 2: Fleisch-Pattie zieht im Garschrank durch um 12:58
+Bestellung 2: Warme Zutaten fertig an der Vorarbeitstheke um 13:03
+Bestellung 2: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:21
+Bestellung 2: Burgermeister beginnt mit dem Zusammenbau des Burgers um 13:21
+Bestellung 2: Bun getoastet um 13:21
+Bestellung 2: Burger belegt um 13:21
+Bestellung 2: Burger fertiggestellt und verpackt um 13:22 (Dauer: 26.09 Minuten)
+Bestellung 2: Burger zur Abholung bereit um 13:22 (Dauer: 26.09 Minuten)
+Bestellung 0: Start Vorarbeitstheke um 11:00 (Bestellt um 11:00)
+Bestellung 0: Zuarbeiter*in zugewiesen um 11:00
+Bestellung 0: Zutaten aus Gefrierschrank entnommen nach 0.19 Minuten
+Bestellung 0: Vegetarisch wird in der Fritteuse zubereitet um 11:00
+Bestellung 0: Warme Zutaten fertig an der Vorarbeitstheke um 11:07
+Bestellung 0: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:25
+Bestellung 0: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:25
+Bestellung 0: Bun getoastet um 11:25
+Bestellung 0: Burger belegt um 11:25
+Bestellung 0: Burger fertiggestellt und verpackt um 11:26 (Dauer: 26.02 Minuten)
+Bestellung 0: Burger zur Abholung bereit um 11:26 (Dauer: 26.02 Minuten)
+Bestellung 1: Start Vorarbeitstheke um 11:38 (Bestellt um 11:38)
+Bestellung 1: Zuarbeiter*in zugewiesen um 11:38
+Bestellung 1: Zutaten aus Gefrierschrank entnommen nach 0.36 Minuten
+Bestellung 1: Fleisch-Pattie wird auf dem Grill angebraten um 11:38
+Bestellung 1: Fleisch-Pattie zieht im Garschrank durch um 11:40
+Bestellung 1: Warme Zutaten fertig an der Vorarbeitstheke um 11:45
+Bestellung 1: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:03
+Bestellung 1: Burgermeister beginnt mit dem Zusammenbau des Burgers um 12:03
+Bestellung 1: Bun getoastet um 12:03
+Bestellung 1: Burger belegt um 12:03
+Bestellung 1: Zusätzliche Zeit für Pommes hinzugefügt
+Bestellung 1: Burger fertiggestellt und verpackt um 12:04 (Dauer: 26.60 Minuten)
+Bestellung 1: Burger zur Abholung bereit um 12:04 (Dauer: 26.60 Minuten)
+Bestellung 2: Start Vorarbeitstheke um 13:31 (Bestellt um 13:31)
+Bestellung 2: Zuarbeiter*in zugewiesen um 13:31
+Bestellung 2: Zutaten aus Gefrierschrank entnommen nach 0.53 Minuten
+Bestellung 2: Geflügel wird in der Fritteuse zubereitet um 13:31
+Bestellung 2: Warme Zutaten fertig an der Vorarbeitstheke um 13:37
+Bestellung 2: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:56
+Bestellung 2: Burgermeister beginnt mit dem Zusammenbau des Burgers um 13:56
+Bestellung 2: Bun getoastet um 13:56
+Bestellung 2: Burger belegt um 13:56
+Bestellung 2: Burger fertiggestellt und verpackt um 13:57 (Dauer: 26.00 Minuten)
+Bestellung 2: Burger zur Abholung bereit um 13:57 (Dauer: 26.00 Minuten)
+Bestellung 0: Start Vorarbeitstheke um 11:00 (Bestellt um 11:00)
+Bestellung 0: Zuarbeiter*in zugewiesen um 11:00
+Bestellung 1: Start Vorarbeitstheke um 11:00 (Bestellt um 11:00)
+Bestellung 1: Zuarbeiter*in zugewiesen um 11:00
+Bestellung 2: Start Vorarbeitstheke um 11:00 (Bestellt um 11:00)
+Bestellung 3: Start Vorarbeitstheke um 11:00 (Bestellt um 11:00)
+Bestellung 4: Start Vorarbeitstheke um 11:00 (Bestellt um 11:00)
+Bestellung 5: Start Vorarbeitstheke um 11:00 (Bestellt um 11:00)
+Bestellung 6: Start Vorarbeitstheke um 11:00 (Bestellt um 11:00)
+Bestellung 0: Zutaten aus Gefrierschrank entnommen nach 0.29 Minuten
+Bestellung 0: Vegetarisch wird in der Fritteuse zubereitet um 11:00
+Bestellung 1: Zutaten aus Gefrierschrank entnommen nach 0.38 Minuten
+Bestellung 1: Fleisch-Pattie wird auf dem Grill angebraten um 11:00
+Bestellung 7: Start Vorarbeitstheke um 11:01 (Bestellt um 11:01)
+Bestellung 8: Start Vorarbeitstheke um 11:01 (Bestellt um 11:01)
+Bestellung 9: Start Vorarbeitstheke um 11:01 (Bestellt um 11:01)
+Bestellung 10: Start Vorarbeitstheke um 11:01 (Bestellt um 11:01)
+Bestellung 1: Fleisch-Pattie zieht im Garschrank durch um 11:03
+Bestellung 11: Start Vorarbeitstheke um 11:06 (Bestellt um 11:06)
+Bestellung 12: Start Vorarbeitstheke um 11:06 (Bestellt um 11:06)
+Bestellung 13: Start Vorarbeitstheke um 11:06 (Bestellt um 11:06)
+Bestellung 1: Warme Zutaten fertig an der Vorarbeitstheke um 11:08
+Bestellung 2: Zuarbeiter*in zugewiesen um 11:08
+Bestellung 14: Start Vorarbeitstheke um 11:08 (Bestellt um 11:08)
+Bestellung 15: Start Vorarbeitstheke um 11:08 (Bestellt um 11:08)
+Bestellung 2: Zutaten aus Gefrierschrank entnommen nach 0.24 Minuten
+Bestellung 2: Fleisch-Pattie wird auf dem Grill angebraten um 11:08
+Bestellung 16: Start Vorarbeitstheke um 11:09 (Bestellt um 11:09)
+Bestellung 0: Warme Zutaten fertig an der Vorarbeitstheke um 11:09
+Bestellung 3: Zuarbeiter*in zugewiesen um 11:09
+Bestellung 3: Zutaten aus Gefrierschrank entnommen nach 0.31 Minuten
+Bestellung 3: Vegetarisch wird in der Fritteuse zubereitet um 11:09
+Bestellung 2: Fleisch-Pattie zieht im Garschrank durch um 11:11
+Bestellung 17: Start Vorarbeitstheke um 11:15 (Bestellt um 11:15)
+Bestellung 18: Start Vorarbeitstheke um 11:15 (Bestellt um 11:15)
+Bestellung 2: Warme Zutaten fertig an der Vorarbeitstheke um 11:16
+Bestellung 4: Zuarbeiter*in zugewiesen um 11:16
+Bestellung 4: Zutaten aus Gefrierschrank entnommen nach 0.39 Minuten
+Bestellung 4: Vegetarisch wird in der Fritteuse zubereitet um 11:16
+Bestellung 19: Start Vorarbeitstheke um 11:17 (Bestellt um 11:17)
+Bestellung 3: Warme Zutaten fertig an der Vorarbeitstheke um 11:18
+Bestellung 5: Zuarbeiter*in zugewiesen um 11:18
+Bestellung 5: Zutaten aus Gefrierschrank entnommen nach 0.35 Minuten
+Bestellung 5: Geflügel wird in der Fritteuse zubereitet um 11:18
+Bestellung 20: Start Vorarbeitstheke um 11:18 (Bestellt um 11:18)
+Bestellung 21: Start Vorarbeitstheke um 11:21 (Bestellt um 11:21)
+Bestellung 22: Start Vorarbeitstheke um 11:22 (Bestellt um 11:22)
+Bestellung 4: Warme Zutaten fertig an der Vorarbeitstheke um 11:23
+Bestellung 6: Zuarbeiter*in zugewiesen um 11:23
+Bestellung 6: Zutaten aus Gefrierschrank entnommen nach 0.24 Minuten
+Bestellung 6: Vegetarisch wird in der Fritteuse zubereitet um 11:23
+Bestellung 23: Start Vorarbeitstheke um 11:24 (Bestellt um 11:24)
+Bestellung 24: Start Vorarbeitstheke um 11:24 (Bestellt um 11:24)
+Bestellung 0: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:25
+Bestellung 0: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:25
+Bestellung 1: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:25
+Bestellung 2: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:25
+Bestellung 3: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:25
+Bestellung 4: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:25
+Bestellung 0: Bun getoastet um 11:25
+Bestellung 25: Start Vorarbeitstheke um 11:25 (Bestellt um 11:25)
+Bestellung 26: Start Vorarbeitstheke um 11:25 (Bestellt um 11:25)
+Bestellung 27: Start Vorarbeitstheke um 11:25 (Bestellt um 11:25)
+Bestellung 0: Burger belegt um 11:25
+Bestellung 0: Zusätzliche Zeit für Pommes hinzugefügt
+Bestellung 28: Start Vorarbeitstheke um 11:26 (Bestellt um 11:26)
+Bestellung 5: Warme Zutaten fertig an der Vorarbeitstheke um 11:26
+Bestellung 7: Zuarbeiter*in zugewiesen um 11:26
+Bestellung 0: Start Vorarbeitstheke um 11:00 (Bestellt um 11:00)
+Bestellung 0: Zuarbeiter*in zugewiesen um 11:00
+Bestellung 0: Zutaten aus Gefrierschrank entnommen nach 0.21 Minuten
+Bestellung 0: Geflügel wird in der Fritteuse zubereitet um 11:00
+Bestellung 1: Start Vorarbeitstheke um 11:01 (Bestellt um 11:01)
+Bestellung 1: Zuarbeiter*in zugewiesen um 11:01
+Bestellung 1: Zutaten aus Gefrierschrank entnommen nach 0.50 Minuten
+Bestellung 1: Vegetarisch wird in der Fritteuse zubereitet um 11:02
+Bestellung 2: Start Vorarbeitstheke um 11:02 (Bestellt um 11:02)
+Bestellung 3: Start Vorarbeitstheke um 11:04 (Bestellt um 11:04)
+Bestellung 4: Start Vorarbeitstheke um 11:07 (Bestellt um 11:07)
+Bestellung 0: Warme Zutaten fertig an der Vorarbeitstheke um 11:08
+Bestellung 2: Zuarbeiter*in zugewiesen um 11:08
+Bestellung 2: Zutaten aus Gefrierschrank entnommen nach 0.30 Minuten
+Bestellung 2: Geflügel wird in der Fritteuse zubereitet um 11:08
+Bestellung 5: Start Vorarbeitstheke um 11:08 (Bestellt um 11:08)
+Bestellung 1: Warme Zutaten fertig an der Vorarbeitstheke um 11:10
+Bestellung 3: Zuarbeiter*in zugewiesen um 11:10
+Bestellung 6: Start Vorarbeitstheke um 11:10 (Bestellt um 11:10)
+Bestellung 3: Zutaten aus Gefrierschrank entnommen nach 0.55 Minuten
+Bestellung 3: Vegetarisch wird in der Fritteuse zubereitet um 11:11
+Bestellung 7: Start Vorarbeitstheke um 11:11 (Bestellt um 11:11)
+Bestellung 8: Start Vorarbeitstheke um 11:13 (Bestellt um 11:13)
+Bestellung 9: Start Vorarbeitstheke um 11:13 (Bestellt um 11:13)
+Bestellung 10: Start Vorarbeitstheke um 11:14 (Bestellt um 11:14)
+Bestellung 11: Start Vorarbeitstheke um 11:14 (Bestellt um 11:14)
+Bestellung 12: Start Vorarbeitstheke um 11:15 (Bestellt um 11:15)
+Bestellung 13: Start Vorarbeitstheke um 11:17 (Bestellt um 11:17)
+Bestellung 2: Warme Zutaten fertig an der Vorarbeitstheke um 11:18
+Bestellung 4: Zuarbeiter*in zugewiesen um 11:18
+Bestellung 14: Start Vorarbeitstheke um 11:18 (Bestellt um 11:18)
+Bestellung 4: Zutaten aus Gefrierschrank entnommen nach 0.27 Minuten
+Bestellung 4: Fleisch-Pattie wird auf dem Grill angebraten um 11:18
+Bestellung 3: Warme Zutaten fertig an der Vorarbeitstheke um 11:18
+Bestellung 5: Zuarbeiter*in zugewiesen um 11:18
+Bestellung 5: Zutaten aus Gefrierschrank entnommen nach 0.34 Minuten
+Bestellung 5: Vegetarisch wird in der Fritteuse zubereitet um 11:18
+Bestellung 15: Start Vorarbeitstheke um 11:20 (Bestellt um 11:20)
+Bestellung 4: Fleisch-Pattie zieht im Garschrank durch um 11:20
+Bestellung 16: Start Vorarbeitstheke um 11:21 (Bestellt um 11:21)
+Bestellung 17: Start Vorarbeitstheke um 11:22 (Bestellt um 11:22)
+Bestellung 18: Start Vorarbeitstheke um 11:24 (Bestellt um 11:24)
+Bestellung 0: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:25
+Bestellung 0: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:25
+Bestellung 19: Start Vorarbeitstheke um 11:25 (Bestellt um 11:25)
+Bestellung 4: Warme Zutaten fertig an der Vorarbeitstheke um 11:25
+Bestellung 6: Zuarbeiter*in zugewiesen um 11:25
+Bestellung 6: Zutaten aus Gefrierschrank entnommen nach 0.30 Minuten
+Bestellung 6: Vegetarisch wird in der Fritteuse zubereitet um 11:25
+Bestellung 0: Bun getoastet um 11:25
+Bestellung 0: Burger belegt um 11:25
+Bestellung 0: Fehler bei Zusammenbau, Neustart erforderlich um 11:25
+Bestellung 0: Start Vorarbeitstheke um 11:00 (Bestellt um 11:00)
+Bestellung 0: Zuarbeiter*in zugewiesen um 11:00
+Bestellung 1: Start Vorarbeitstheke um 11:00 (Bestellt um 11:00)
+Bestellung 1: Zuarbeiter*in zugewiesen um 11:00
+Bestellung 0: Zutaten aus Gefrierschrank entnommen nach 0.39 Minuten
+Bestellung 0: Fleisch-Pattie wird auf dem Grill angebraten um 11:00
+Bestellung 1: Zutaten aus Gefrierschrank entnommen nach 0.40 Minuten
+Bestellung 2: Start Vorarbeitstheke um 11:02 (Bestellt um 11:02)
+Bestellung 0: Fleisch-Pattie zieht im Garschrank durch um 11:02
+Bestellung 1: Fleisch-Pattie wird auf dem Grill angebraten um 11:02
+Bestellung 3: Start Vorarbeitstheke um 11:02 (Bestellt um 11:02)
+Bestellung 4: Start Vorarbeitstheke um 11:03 (Bestellt um 11:03)
+Bestellung 5: Start Vorarbeitstheke um 11:04 (Bestellt um 11:04)
+Bestellung 6: Start Vorarbeitstheke um 11:05 (Bestellt um 11:05)
+Bestellung 7: Start Vorarbeitstheke um 11:06 (Bestellt um 11:06)
+Bestellung 0: Warme Zutaten fertig an der Vorarbeitstheke um 11:07
+Bestellung 1: Fleisch-Pattie zieht im Garschrank durch um 11:07
+Bestellung 2: Zuarbeiter*in zugewiesen um 11:07
+Bestellung 2: Zutaten aus Gefrierschrank entnommen nach 0.32 Minuten
+Bestellung 2: Vegetarisch wird in der Fritteuse zubereitet um 11:07
+Bestellung 8: Start Vorarbeitstheke um 11:07 (Bestellt um 11:07)
+Bestellung 9: Start Vorarbeitstheke um 11:08 (Bestellt um 11:08)
+Bestellung 10: Start Vorarbeitstheke um 11:10 (Bestellt um 11:10)
+Bestellung 1: Warme Zutaten fertig an der Vorarbeitstheke um 11:11
+Bestellung 3: Zuarbeiter*in zugewiesen um 11:11
+Bestellung 11: Start Vorarbeitstheke um 11:11 (Bestellt um 11:11)
+Bestellung 3: Zutaten aus Gefrierschrank entnommen nach 0.39 Minuten
+Bestellung 3: Vegetarisch wird in der Fritteuse zubereitet um 11:11
+Bestellung 12: Start Vorarbeitstheke um 11:11 (Bestellt um 11:11)
+Bestellung 13: Start Vorarbeitstheke um 11:12 (Bestellt um 11:12)
+Bestellung 14: Start Vorarbeitstheke um 11:12 (Bestellt um 11:12)
+Bestellung 15: Start Vorarbeitstheke um 11:13 (Bestellt um 11:13)
+Bestellung 16: Start Vorarbeitstheke um 11:13 (Bestellt um 11:13)
+Bestellung 17: Start Vorarbeitstheke um 11:14 (Bestellt um 11:14)
+Bestellung 18: Start Vorarbeitstheke um 11:14 (Bestellt um 11:14)
+Bestellung 19: Start Vorarbeitstheke um 11:15 (Bestellt um 11:15)
+Bestellung 2: Warme Zutaten fertig an der Vorarbeitstheke um 11:16
+Bestellung 4: Zuarbeiter*in zugewiesen um 11:16
+Bestellung 4: Zutaten aus Gefrierschrank entnommen nach 0.27 Minuten
+Bestellung 4: Vegetarisch wird in der Fritteuse zubereitet um 11:16
+Bestellung 20: Start Vorarbeitstheke um 11:18 (Bestellt um 11:18)
+Bestellung 3: Warme Zutaten fertig an der Vorarbeitstheke um 11:20
+Bestellung 5: Zuarbeiter*in zugewiesen um 11:20
+Bestellung 21: Start Vorarbeitstheke um 11:20 (Bestellt um 11:20)
+Bestellung 5: Zutaten aus Gefrierschrank entnommen nach 0.42 Minuten
+Bestellung 5: Fleisch-Pattie wird auf dem Grill angebraten um 11:21
+Bestellung 22: Start Vorarbeitstheke um 11:21 (Bestellt um 11:21)
+Bestellung 23: Start Vorarbeitstheke um 11:23 (Bestellt um 11:23)
+Bestellung 5: Fleisch-Pattie zieht im Garschrank durch um 11:23
+Bestellung 4: Warme Zutaten fertig an der Vorarbeitstheke um 11:24
+Bestellung 6: Zuarbeiter*in zugewiesen um 11:24
+Bestellung 6: Zutaten aus Gefrierschrank entnommen nach 0.17 Minuten
+Bestellung 6: Vegetarisch wird in der Fritteuse zubereitet um 11:24
+Bestellung 0: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:25
+Bestellung 0: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:25
+Bestellung 1: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:25
+Bestellung 24: Start Vorarbeitstheke um 11:25 (Bestellt um 11:25)
+Bestellung 0: Bun getoastet um 11:25
+Bestellung 0: Burger belegt um 11:25
+Bestellung 25: Start Vorarbeitstheke um 11:26 (Bestellt um 11:26)
+Bestellung 0: Burger fertiggestellt und verpackt um 11:26 (Dauer: 26.08 Minuten)
+Bestellung 0: Burger zur Abholung bereit um 11:26 (Dauer: 26.08 Minuten)
+Bestellung 1: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:26
+Bestellung 1: Bun getoastet um 11:26
+Bestellung 1: Burger belegt um 11:26
+Bestellung 1: Burger fertiggestellt und verpackt um 11:27 (Dauer: 26.80 Minuten)
+Bestellung 1: Burger zur Abholung bereit um 11:27 (Dauer: 26.80 Minuten)
+Bestellung 2: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:27
+Bestellung 2: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:27
+Bestellung 5: Warme Zutaten fertig an der Vorarbeitstheke um 11:27
+Bestellung 7: Zuarbeiter*in zugewiesen um 11:27
+Bestellung 3: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:27
+Bestellung 2: Bun getoastet um 11:28
+Bestellung 7: Zutaten aus Gefrierschrank entnommen nach 0.54 Minuten
+Bestellung 7: Vegetarisch wird in der Fritteuse zubereitet um 11:28
+Bestellung 2: Burger belegt um 11:28
+Bestellung 2: Burger fertiggestellt und verpackt um 11:28 (Dauer: 26.04 Minuten)
+Bestellung 2: Burger zur Abholung bereit um 11:28 (Dauer: 26.04 Minuten)
+Bestellung 3: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:28
+Bestellung 4: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:28
+Bestellung 26: Start Vorarbeitstheke um 11:28 (Bestellt um 11:28)
+Bestellung 3: Bun getoastet um 11:29
+Bestellung 3: Burger belegt um 11:29
+Bestellung 3: Burger fertiggestellt und verpackt um 11:29 (Dauer: 26.48 Minuten)
+Bestellung 3: Burger zur Abholung bereit um 11:29 (Dauer: 26.48 Minuten)
+Bestellung 4: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:29
+Bestellung 27: Start Vorarbeitstheke um 11:29 (Bestellt um 11:29)
+Bestellung 5: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:29
+Bestellung 4: Bun getoastet um 11:30
+Bestellung 4: Burger belegt um 11:30
+Bestellung 4: Zusätzliche Zeit für Pommes hinzugefügt
+Bestellung 4: Burger fertiggestellt und verpackt um 11:30 (Dauer: 27.31 Minuten)
+Bestellung 4: Burger zur Abholung bereit um 11:30 (Dauer: 27.31 Minuten)
+Bestellung 5: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:30
+Bestellung 5: Bun getoastet um 11:31
+Bestellung 5: Burger belegt um 11:31
+Bestellung 5: Zusätzliche Zeit für Pommes hinzugefügt
+Bestellung 5: Burger fertiggestellt und verpackt um 11:32 (Dauer: 27.49 Minuten)
+Bestellung 5: Burger zur Abholung bereit um 11:32 (Dauer: 27.49 Minuten)
+Bestellung 28: Start Vorarbeitstheke um 11:33 (Bestellt um 11:33)
+Bestellung 6: Warme Zutaten fertig an der Vorarbeitstheke um 11:34
+Bestellung 8: Zuarbeiter*in zugewiesen um 11:34
+Bestellung 0: Start Vorarbeitstheke um 11:00 (Bestellt um 11:00)
+Bestellung 0: Zuarbeiter*in zugewiesen um 11:00
+Bestellung 0: Zutaten aus Gefrierschrank entnommen nach 0.28 Minuten
+Bestellung 0: Vegetarisch wird in der Fritteuse zubereitet um 11:00
+Bestellung 1: Start Vorarbeitstheke um 11:00 (Bestellt um 11:00)
+Bestellung 1: Zuarbeiter*in zugewiesen um 11:00
+Bestellung 1: Zutaten aus Gefrierschrank entnommen nach 0.13 Minuten
+Bestellung 1: Geflügel wird in der Fritteuse zubereitet um 11:00
+Bestellung 2: Start Vorarbeitstheke um 11:00 (Bestellt um 11:00)
+Bestellung 3: Start Vorarbeitstheke um 11:00 (Bestellt um 11:00)
+Bestellung 4: Start Vorarbeitstheke um 11:01 (Bestellt um 11:01)
+Bestellung 5: Start Vorarbeitstheke um 11:01 (Bestellt um 11:01)
+Bestellung 6: Start Vorarbeitstheke um 11:05 (Bestellt um 11:05)
+Bestellung 0: Warme Zutaten fertig an der Vorarbeitstheke um 11:07
+Bestellung 2: Zuarbeiter*in zugewiesen um 11:07
+Bestellung 2: Zutaten aus Gefrierschrank entnommen nach 0.40 Minuten
+Bestellung 2: Geflügel wird in der Fritteuse zubereitet um 11:07
+Bestellung 7: Start Vorarbeitstheke um 11:07 (Bestellt um 11:07)
+Bestellung 8: Start Vorarbeitstheke um 11:08 (Bestellt um 11:08)
+Bestellung 9: Start Vorarbeitstheke um 11:08 (Bestellt um 11:08)
+Bestellung 10: Start Vorarbeitstheke um 11:08 (Bestellt um 11:08)
+Bestellung 1: Warme Zutaten fertig an der Vorarbeitstheke um 11:09
+Bestellung 3: Zuarbeiter*in zugewiesen um 11:09
+Bestellung 11: Start Vorarbeitstheke um 11:09 (Bestellt um 11:09)
+Bestellung 3: Zutaten aus Gefrierschrank entnommen nach 0.48 Minuten
+Bestellung 3: Geflügel wird in der Fritteuse zubereitet um 11:09
+Bestellung 12: Start Vorarbeitstheke um 11:12 (Bestellt um 11:12)
+Bestellung 2: Warme Zutaten fertig an der Vorarbeitstheke um 11:13
+Bestellung 4: Zuarbeiter*in zugewiesen um 11:13
+Bestellung 4: Zutaten aus Gefrierschrank entnommen nach 0.31 Minuten
+Bestellung 4: Fleisch-Pattie wird auf dem Grill angebraten um 11:13
+Bestellung 13: Start Vorarbeitstheke um 11:14 (Bestellt um 11:14)
+Bestellung 4: Fleisch-Pattie zieht im Garschrank durch um 11:16
+Bestellung 14: Start Vorarbeitstheke um 11:16 (Bestellt um 11:16)
+Bestellung 3: Warme Zutaten fertig an der Vorarbeitstheke um 11:16
+Bestellung 5: Zuarbeiter*in zugewiesen um 11:16
+Bestellung 15: Start Vorarbeitstheke um 11:16 (Bestellt um 11:16)
+Bestellung 16: Start Vorarbeitstheke um 11:17 (Bestellt um 11:17)
+Bestellung 5: Zutaten aus Gefrierschrank entnommen nach 0.48 Minuten
+Bestellung 5: Vegetarisch wird in der Fritteuse zubereitet um 11:17
+Bestellung 17: Start Vorarbeitstheke um 11:18 (Bestellt um 11:18)
+Bestellung 18: Start Vorarbeitstheke um 11:20 (Bestellt um 11:20)
+Bestellung 4: Warme Zutaten fertig an der Vorarbeitstheke um 11:21
+Bestellung 6: Zuarbeiter*in zugewiesen um 11:21
+Bestellung 6: Zutaten aus Gefrierschrank entnommen nach 0.22 Minuten
+Bestellung 6: Vegetarisch wird in der Fritteuse zubereitet um 11:21
+Bestellung 19: Start Vorarbeitstheke um 11:21 (Bestellt um 11:21)
+Bestellung 5: Warme Zutaten fertig an der Vorarbeitstheke um 11:23
+Bestellung 7: Zuarbeiter*in zugewiesen um 11:23
+Bestellung 7: Zutaten aus Gefrierschrank entnommen nach 0.35 Minuten
+Bestellung 7: Vegetarisch wird in der Fritteuse zubereitet um 11:23
+Bestellung 20: Start Vorarbeitstheke um 11:24 (Bestellt um 11:24)
+Bestellung 0: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:25
+Bestellung 0: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:25
+Bestellung 21: Start Vorarbeitstheke um 11:25 (Bestellt um 11:25)
+Bestellung 1: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:25
+Bestellung 2: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:25
+Bestellung 0: Bun getoastet um 11:25
+Bestellung 0: Burger belegt um 11:25
+Bestellung 0: Zusätzliche Zeit für Pommes hinzugefügt
+Bestellung 3: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:25
+Bestellung 4: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:26
+Bestellung 0: Burger fertiggestellt und verpackt um 11:26 (Dauer: 26.50 Minuten)
+Bestellung 0: Burger zur Abholung bereit um 11:26 (Dauer: 26.50 Minuten)
+Bestellung 1: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:26
+Bestellung 5: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:26
+Bestellung 22: Start Vorarbeitstheke um 11:27 (Bestellt um 11:27)
+Bestellung 1: Bun getoastet um 11:27
+Bestellung 23: Start Vorarbeitstheke um 11:27 (Bestellt um 11:27)
+Bestellung 1: Burger belegt um 11:27
+Bestellung 1: Fehler bei Zusammenbau, Neustart erforderlich um 11:27
+Bestellung 1: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:27
+Bestellung 6: Warme Zutaten fertig an der Vorarbeitstheke um 11:29
+Bestellung 8: Zuarbeiter*in zugewiesen um 11:29
+Bestellung 8: Zutaten aus Gefrierschrank entnommen nach 0.25 Minuten
+Bestellung 8: Fleisch-Pattie wird auf dem Grill angebraten um 11:29
+Bestellung 6: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:30
+Bestellung 24: Start Vorarbeitstheke um 11:30 (Bestellt um 11:30)
+Bestellung 8: Fleisch-Pattie zieht im Garschrank durch um 11:31
+Bestellung 25: Start Vorarbeitstheke um 11:31 (Bestellt um 11:31)
+Bestellung 26: Start Vorarbeitstheke um 11:32 (Bestellt um 11:32)
+Bestellung 27: Start Vorarbeitstheke um 11:33 (Bestellt um 11:33)
+Bestellung 7: Warme Zutaten fertig an der Vorarbeitstheke um 11:33
+Bestellung 7: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:33
+Bestellung 9: Zuarbeiter*in zugewiesen um 11:33
+Bestellung 9: Zutaten aus Gefrierschrank entnommen nach 0.28 Minuten
+Bestellung 9: Geflügel wird in der Fritteuse zubereitet um 11:33
+Bestellung 8: Warme Zutaten fertig an der Vorarbeitstheke um 11:34
+Bestellung 8: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:34
+Bestellung 10: Zuarbeiter*in zugewiesen um 11:34
+Bestellung 10: Zutaten aus Gefrierschrank entnommen nach 0.72 Minuten
+Bestellung 10: Geflügel wird in der Fritteuse zubereitet um 11:35
+Bestellung 28: Start Vorarbeitstheke um 11:35 (Bestellt um 11:35)
+Bestellung 29: Start Vorarbeitstheke um 11:37 (Bestellt um 11:37)
+Bestellung 30: Start Vorarbeitstheke um 11:38 (Bestellt um 11:38)
+Bestellung 31: Start Vorarbeitstheke um 11:40 (Bestellt um 11:40)
+Bestellung 9: Warme Zutaten fertig an der Vorarbeitstheke um 11:41
+Bestellung 9: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:41
+Bestellung 11: Zuarbeiter*in zugewiesen um 11:41
+Bestellung 11: Zutaten aus Gefrierschrank entnommen nach 0.24 Minuten
+Bestellung 11: Fleisch-Pattie wird auf dem Grill angebraten um 11:41
+Bestellung 32: Start Vorarbeitstheke um 11:42 (Bestellt um 11:42)
+Bestellung 33: Start Vorarbeitstheke um 11:42 (Bestellt um 11:42)
+Bestellung 11: Fleisch-Pattie zieht im Garschrank durch um 11:43
+Bestellung 34: Start Vorarbeitstheke um 11:43 (Bestellt um 11:43)
+Bestellung 10: Warme Zutaten fertig an der Vorarbeitstheke um 11:45
+Bestellung 10: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:45
+Bestellung 12: Zuarbeiter*in zugewiesen um 11:45
+Bestellung 12: Zutaten aus Gefrierschrank entnommen nach 0.61 Minuten
+Bestellung 12: Fleisch-Pattie wird auf dem Grill angebraten um 11:45
+Bestellung 35: Start Vorarbeitstheke um 11:45 (Bestellt um 11:45)
+Bestellung 36: Start Vorarbeitstheke um 11:46 (Bestellt um 11:46)
+Bestellung 11: Warme Zutaten fertig an der Vorarbeitstheke um 11:47
+Bestellung 11: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:47
+Bestellung 13: Zuarbeiter*in zugewiesen um 11:47
+Bestellung 13: Zutaten aus Gefrierschrank entnommen nach 0.13 Minuten
+Bestellung 13: Geflügel wird in der Fritteuse zubereitet um 11:47
+Bestellung 37: Start Vorarbeitstheke um 11:48 (Bestellt um 11:48)
+Bestellung 12: Fleisch-Pattie zieht im Garschrank durch um 11:48
+Bestellung 38: Start Vorarbeitstheke um 11:49 (Bestellt um 11:49)
+Bestellung 39: Start Vorarbeitstheke um 11:51 (Bestellt um 11:51)
+Bestellung 40: Start Vorarbeitstheke um 11:52 (Bestellt um 11:52)
+Bestellung 41: Start Vorarbeitstheke um 11:52 (Bestellt um 11:52)
+Bestellung 12: Warme Zutaten fertig an der Vorarbeitstheke um 11:53
+Bestellung 12: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:53
+Bestellung 14: Zuarbeiter*in zugewiesen um 11:53
+Bestellung 14: Zutaten aus Gefrierschrank entnommen nach 0.33 Minuten
+Bestellung 14: Geflügel wird in der Fritteuse zubereitet um 11:53
+Bestellung 42: Start Vorarbeitstheke um 11:53 (Bestellt um 11:53)
+Bestellung 13: Warme Zutaten fertig an der Vorarbeitstheke um 11:54
+Bestellung 13: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:54
+Bestellung 15: Zuarbeiter*in zugewiesen um 11:54
+Bestellung 15: Zutaten aus Gefrierschrank entnommen nach 0.44 Minuten
+Bestellung 15: Fleisch-Pattie wird auf dem Grill angebraten um 11:55
+Bestellung 15: Fleisch-Pattie zieht im Garschrank durch um 11:57
+Bestellung 43: Start Vorarbeitstheke um 11:58 (Bestellt um 11:58)
+Bestellung 44: Start Vorarbeitstheke um 11:58 (Bestellt um 11:58)
+Bestellung 14: Warme Zutaten fertig an der Vorarbeitstheke um 12:00
+Bestellung 14: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:00
+Bestellung 16: Zuarbeiter*in zugewiesen um 12:00
+Bestellung 16: Zutaten aus Gefrierschrank entnommen nach 0.46 Minuten
+Bestellung 16: Fleisch-Pattie wird auf dem Grill angebraten um 12:00
+Bestellung 45: Start Vorarbeitstheke um 12:01 (Bestellt um 12:01)
+Bestellung 15: Warme Zutaten fertig an der Vorarbeitstheke um 12:01
+Bestellung 15: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:01
+Bestellung 17: Zuarbeiter*in zugewiesen um 12:01
+Bestellung 17: Zutaten aus Gefrierschrank entnommen nach 0.38 Minuten
+Bestellung 17: Geflügel wird in der Fritteuse zubereitet um 12:01
+Bestellung 46: Start Vorarbeitstheke um 12:02 (Bestellt um 12:02)
+Bestellung 16: Fleisch-Pattie zieht im Garschrank durch um 12:03
+Bestellung 47: Start Vorarbeitstheke um 12:04 (Bestellt um 12:04)
+Bestellung 48: Start Vorarbeitstheke um 12:06 (Bestellt um 12:06)
+Bestellung 16: Warme Zutaten fertig an der Vorarbeitstheke um 12:08
+Bestellung 16: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:08
+Bestellung 18: Zuarbeiter*in zugewiesen um 12:08
+Bestellung 18: Zutaten aus Gefrierschrank entnommen nach 0.15 Minuten
+Bestellung 18: Vegetarisch wird in der Fritteuse zubereitet um 12:08
+Bestellung 49: Start Vorarbeitstheke um 12:08 (Bestellt um 12:08)
+Bestellung 50: Start Vorarbeitstheke um 12:09 (Bestellt um 12:09)
+Bestellung 17: Warme Zutaten fertig an der Vorarbeitstheke um 12:09
+Bestellung 17: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:09
+Bestellung 19: Zuarbeiter*in zugewiesen um 12:09
+Bestellung 19: Zutaten aus Gefrierschrank entnommen nach 0.18 Minuten
+Bestellung 19: Vegetarisch wird in der Fritteuse zubereitet um 12:10
+Bestellung 51: Start Vorarbeitstheke um 12:11 (Bestellt um 12:11)
+Bestellung 52: Start Vorarbeitstheke um 12:13 (Bestellt um 12:13)
+Bestellung 53: Start Vorarbeitstheke um 12:14 (Bestellt um 12:14)
+Bestellung 54: Start Vorarbeitstheke um 12:15 (Bestellt um 12:15)
+Bestellung 18: Warme Zutaten fertig an der Vorarbeitstheke um 12:15
+Bestellung 18: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:15
+Bestellung 20: Zuarbeiter*in zugewiesen um 12:15
+Bestellung 20: Zutaten aus Gefrierschrank entnommen nach 0.40 Minuten
+Bestellung 20: Vegetarisch wird in der Fritteuse zubereitet um 12:15
+Bestellung 55: Start Vorarbeitstheke um 12:15 (Bestellt um 12:15)
+Bestellung 56: Start Vorarbeitstheke um 12:15 (Bestellt um 12:15)
+Bestellung 57: Start Vorarbeitstheke um 12:15 (Bestellt um 12:15)
+Bestellung 58: Start Vorarbeitstheke um 12:16 (Bestellt um 12:16)
+Bestellung 19: Warme Zutaten fertig an der Vorarbeitstheke um 12:17
+Bestellung 19: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:17
+Bestellung 21: Zuarbeiter*in zugewiesen um 12:17
+Bestellung 21: Zutaten aus Gefrierschrank entnommen nach 0.45 Minuten
+Bestellung 21: Geflügel wird in der Fritteuse zubereitet um 12:17
+Bestellung 59: Start Vorarbeitstheke um 12:17 (Bestellt um 12:17)
+Bestellung 60: Start Vorarbeitstheke um 12:18 (Bestellt um 12:18)
+Bestellung 61: Start Vorarbeitstheke um 12:20 (Bestellt um 12:20)
+Bestellung 62: Start Vorarbeitstheke um 12:20 (Bestellt um 12:20)
+Bestellung 63: Start Vorarbeitstheke um 12:24 (Bestellt um 12:24)
+Bestellung 64: Start Vorarbeitstheke um 12:24 (Bestellt um 12:24)
+Bestellung 20: Warme Zutaten fertig an der Vorarbeitstheke um 12:25
+Bestellung 20: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:25
+Bestellung 22: Zuarbeiter*in zugewiesen um 12:25
+Bestellung 65: Start Vorarbeitstheke um 12:25 (Bestellt um 12:25)
+Bestellung 22: Zutaten aus Gefrierschrank entnommen nach 0.41 Minuten
+Bestellung 22: Geflügel wird in der Fritteuse zubereitet um 12:25
+Bestellung 21: Warme Zutaten fertig an der Vorarbeitstheke um 12:26
+Bestellung 21: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:26
+Bestellung 23: Zuarbeiter*in zugewiesen um 12:26
+Bestellung 23: Zutaten aus Gefrierschrank entnommen nach 0.52 Minuten
+Bestellung 23: Geflügel wird in der Fritteuse zubereitet um 12:26
+Bestellung 66: Start Vorarbeitstheke um 12:28 (Bestellt um 12:28)
+Bestellung 67: Start Vorarbeitstheke um 12:29 (Bestellt um 12:29)
+Bestellung 68: Start Vorarbeitstheke um 12:30 (Bestellt um 12:30)
+Bestellung 69: Start Vorarbeitstheke um 12:32 (Bestellt um 12:32)
+Bestellung 70: Start Vorarbeitstheke um 12:33 (Bestellt um 12:33)
+Bestellung 23: Warme Zutaten fertig an der Vorarbeitstheke um 12:33
+Bestellung 23: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:33
+Bestellung 24: Zuarbeiter*in zugewiesen um 12:33
+Bestellung 24: Zutaten aus Gefrierschrank entnommen nach 0.25 Minuten
+Bestellung 24: Geflügel wird in der Fritteuse zubereitet um 12:33
+Bestellung 22: Warme Zutaten fertig an der Vorarbeitstheke um 12:34
+Bestellung 22: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:34
+Bestellung 25: Zuarbeiter*in zugewiesen um 12:34
+Bestellung 25: Zutaten aus Gefrierschrank entnommen nach 0.31 Minuten
+Bestellung 25: Vegetarisch wird in der Fritteuse zubereitet um 12:35
+Bestellung 71: Start Vorarbeitstheke um 12:35 (Bestellt um 12:35)
+Bestellung 72: Start Vorarbeitstheke um 12:37 (Bestellt um 12:37)
+Bestellung 73: Start Vorarbeitstheke um 12:37 (Bestellt um 12:37)
+Bestellung 74: Start Vorarbeitstheke um 12:39 (Bestellt um 12:39)
+Bestellung 25: Warme Zutaten fertig an der Vorarbeitstheke um 12:41
+Bestellung 25: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:41
+Bestellung 26: Zuarbeiter*in zugewiesen um 12:41
+Bestellung 24: Warme Zutaten fertig an der Vorarbeitstheke um 12:41
+Bestellung 24: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:41
+Bestellung 27: Zuarbeiter*in zugewiesen um 12:41
+Bestellung 26: Zutaten aus Gefrierschrank entnommen nach 0.44 Minuten
+Bestellung 26: Vegetarisch wird in der Fritteuse zubereitet um 12:42
+Bestellung 75: Start Vorarbeitstheke um 12:42 (Bestellt um 12:42)
+Bestellung 27: Zutaten aus Gefrierschrank entnommen nach 0.31 Minuten
+Bestellung 27: Geflügel wird in der Fritteuse zubereitet um 12:42
+Bestellung 76: Start Vorarbeitstheke um 12:42 (Bestellt um 12:42)
+Bestellung 77: Start Vorarbeitstheke um 12:43 (Bestellt um 12:43)
+Bestellung 78: Start Vorarbeitstheke um 12:43 (Bestellt um 12:43)
+Bestellung 79: Start Vorarbeitstheke um 12:43 (Bestellt um 12:43)
+Bestellung 80: Start Vorarbeitstheke um 12:45 (Bestellt um 12:45)
+Bestellung 81: Start Vorarbeitstheke um 12:47 (Bestellt um 12:47)
+Bestellung 27: Warme Zutaten fertig an der Vorarbeitstheke um 12:50
+Bestellung 27: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:50
+Bestellung 28: Zuarbeiter*in zugewiesen um 12:50
+Bestellung 28: Zutaten aus Gefrierschrank entnommen nach 0.46 Minuten
+Bestellung 28: Geflügel wird in der Fritteuse zubereitet um 12:50
+Bestellung 82: Start Vorarbeitstheke um 12:50 (Bestellt um 12:50)
+Bestellung 26: Warme Zutaten fertig an der Vorarbeitstheke um 12:51
+Bestellung 26: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:51
+Bestellung 29: Zuarbeiter*in zugewiesen um 12:51
+Bestellung 29: Zutaten aus Gefrierschrank entnommen nach 0.13 Minuten
+Bestellung 29: Vegetarisch wird in der Fritteuse zubereitet um 12:51
+Bestellung 83: Start Vorarbeitstheke um 12:51 (Bestellt um 12:51)
+Bestellung 84: Start Vorarbeitstheke um 12:52 (Bestellt um 12:52)
+Bestellung 85: Start Vorarbeitstheke um 12:55 (Bestellt um 12:55)
+Bestellung 86: Start Vorarbeitstheke um 12:57 (Bestellt um 12:57)
+Bestellung 28: Warme Zutaten fertig an der Vorarbeitstheke um 12:58
+Bestellung 28: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:58
+Bestellung 30: Zuarbeiter*in zugewiesen um 12:58
+Bestellung 30: Zutaten aus Gefrierschrank entnommen nach 0.33 Minuten
+Bestellung 30: Fleisch-Pattie wird auf dem Grill angebraten um 12:59
+Bestellung 87: Start Vorarbeitstheke um 12:59 (Bestellt um 12:59)
+Bestellung 29: Warme Zutaten fertig an der Vorarbeitstheke um 13:01
+Bestellung 29: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:01
+Bestellung 31: Zuarbeiter*in zugewiesen um 13:01
+Bestellung 31: Zutaten aus Gefrierschrank entnommen nach 0.53 Minuten
+Bestellung 31: Vegetarisch wird in der Fritteuse zubereitet um 13:01
+Bestellung 30: Fleisch-Pattie zieht im Garschrank durch um 13:01
+Bestellung 88: Start Vorarbeitstheke um 13:04 (Bestellt um 13:04)
+Bestellung 30: Warme Zutaten fertig an der Vorarbeitstheke um 13:05
+Bestellung 30: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:05
+Bestellung 32: Zuarbeiter*in zugewiesen um 13:05
+Bestellung 32: Zutaten aus Gefrierschrank entnommen nach 0.44 Minuten
+Bestellung 32: Vegetarisch wird in der Fritteuse zubereitet um 13:06
+Bestellung 89: Start Vorarbeitstheke um 13:07 (Bestellt um 13:07)
+Bestellung 90: Start Vorarbeitstheke um 13:08 (Bestellt um 13:08)
+Bestellung 31: Warme Zutaten fertig an der Vorarbeitstheke um 13:09
+Bestellung 31: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:09
+Bestellung 33: Zuarbeiter*in zugewiesen um 13:09
+Bestellung 33: Zutaten aus Gefrierschrank entnommen nach 0.45 Minuten
+Bestellung 33: Vegetarisch wird in der Fritteuse zubereitet um 13:10
+Bestellung 91: Start Vorarbeitstheke um 13:10 (Bestellt um 13:10)
+Bestellung 92: Start Vorarbeitstheke um 13:11 (Bestellt um 13:11)
+Bestellung 93: Start Vorarbeitstheke um 13:12 (Bestellt um 13:12)
+Bestellung 32: Warme Zutaten fertig an der Vorarbeitstheke um 13:14
+Bestellung 32: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:14
+Bestellung 34: Zuarbeiter*in zugewiesen um 13:14
+Bestellung 34: Zutaten aus Gefrierschrank entnommen nach 0.26 Minuten
+Bestellung 34: Vegetarisch wird in der Fritteuse zubereitet um 13:14
+Bestellung 94: Start Vorarbeitstheke um 13:16 (Bestellt um 13:16)
+Bestellung 95: Start Vorarbeitstheke um 13:16 (Bestellt um 13:16)
+Bestellung 33: Warme Zutaten fertig an der Vorarbeitstheke um 13:16
+Bestellung 33: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:16
+Bestellung 35: Zuarbeiter*in zugewiesen um 13:16
+Bestellung 35: Zutaten aus Gefrierschrank entnommen nach 0.32 Minuten
+Bestellung 35: Geflügel wird in der Fritteuse zubereitet um 13:17
+Bestellung 96: Start Vorarbeitstheke um 13:19 (Bestellt um 13:19)
+Bestellung 97: Start Vorarbeitstheke um 13:21 (Bestellt um 13:21)
+Bestellung 98: Start Vorarbeitstheke um 13:23 (Bestellt um 13:23)
+Bestellung 34: Warme Zutaten fertig an der Vorarbeitstheke um 13:23
+Bestellung 34: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:23
+Bestellung 36: Zuarbeiter*in zugewiesen um 13:23
+Bestellung 36: Zutaten aus Gefrierschrank entnommen nach 0.34 Minuten
+Bestellung 36: Geflügel wird in der Fritteuse zubereitet um 13:23
+Bestellung 99: Start Vorarbeitstheke um 13:23 (Bestellt um 13:23)
+Bestellung 100: Start Vorarbeitstheke um 13:25 (Bestellt um 13:25)
+Bestellung 35: Warme Zutaten fertig an der Vorarbeitstheke um 13:25
+Bestellung 35: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:25
+Bestellung 37: Zuarbeiter*in zugewiesen um 13:25
+Bestellung 37: Zutaten aus Gefrierschrank entnommen nach 0.41 Minuten
+Bestellung 37: Geflügel wird in der Fritteuse zubereitet um 13:26
+Bestellung 101: Start Vorarbeitstheke um 13:28 (Bestellt um 13:28)
+Bestellung 102: Start Vorarbeitstheke um 13:29 (Bestellt um 13:29)
+Bestellung 36: Warme Zutaten fertig an der Vorarbeitstheke um 13:31
+Bestellung 36: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:31
+Bestellung 38: Zuarbeiter*in zugewiesen um 13:31
+Bestellung 103: Start Vorarbeitstheke um 13:31 (Bestellt um 13:31)
+Bestellung 38: Zutaten aus Gefrierschrank entnommen nach 0.32 Minuten
+Bestellung 38: Fleisch-Pattie wird auf dem Grill angebraten um 13:31
+Bestellung 104: Start Vorarbeitstheke um 13:32 (Bestellt um 13:32)
+Bestellung 37: Warme Zutaten fertig an der Vorarbeitstheke um 13:32
+Bestellung 37: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:32
+Bestellung 39: Zuarbeiter*in zugewiesen um 13:32
+Bestellung 105: Start Vorarbeitstheke um 13:33 (Bestellt um 13:33)
+Bestellung 39: Zutaten aus Gefrierschrank entnommen nach 0.22 Minuten
+Bestellung 39: Geflügel wird in der Fritteuse zubereitet um 13:33
+Bestellung 38: Fleisch-Pattie zieht im Garschrank durch um 13:33
+Bestellung 106: Start Vorarbeitstheke um 13:33 (Bestellt um 13:33)
+Bestellung 107: Start Vorarbeitstheke um 13:37 (Bestellt um 13:37)
+Bestellung 38: Warme Zutaten fertig an der Vorarbeitstheke um 13:37
+Bestellung 38: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:37
+Bestellung 40: Zuarbeiter*in zugewiesen um 13:37
+Bestellung 108: Start Vorarbeitstheke um 13:37 (Bestellt um 13:37)
+Bestellung 109: Start Vorarbeitstheke um 13:37 (Bestellt um 13:37)
+Bestellung 40: Zutaten aus Gefrierschrank entnommen nach 0.54 Minuten
+Bestellung 40: Vegetarisch wird in der Fritteuse zubereitet um 13:37
+Bestellung 110: Start Vorarbeitstheke um 13:38 (Bestellt um 13:38)
+Bestellung 111: Start Vorarbeitstheke um 13:38 (Bestellt um 13:38)
+Bestellung 39: Warme Zutaten fertig an der Vorarbeitstheke um 13:40
+Bestellung 39: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:40
+Bestellung 41: Zuarbeiter*in zugewiesen um 13:40
+Bestellung 41: Zutaten aus Gefrierschrank entnommen nach 0.38 Minuten
+Bestellung 41: Geflügel wird in der Fritteuse zubereitet um 13:40
+Bestellung 112: Start Vorarbeitstheke um 13:42 (Bestellt um 13:42)
+Bestellung 40: Warme Zutaten fertig an der Vorarbeitstheke um 13:44
+Bestellung 40: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:44
+Bestellung 42: Zuarbeiter*in zugewiesen um 13:44
+Bestellung 42: Zutaten aus Gefrierschrank entnommen nach 0.31 Minuten
+Bestellung 42: Geflügel wird in der Fritteuse zubereitet um 13:44
+Bestellung 113: Start Vorarbeitstheke um 13:45 (Bestellt um 13:45)
+Bestellung 114: Start Vorarbeitstheke um 13:46 (Bestellt um 13:46)
+Bestellung 41: Warme Zutaten fertig an der Vorarbeitstheke um 13:47
+Bestellung 41: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:47
+Bestellung 43: Zuarbeiter*in zugewiesen um 13:47
+Bestellung 115: Start Vorarbeitstheke um 13:47 (Bestellt um 13:47)
+Bestellung 43: Zutaten aus Gefrierschrank entnommen nach 0.35 Minuten
+Bestellung 43: Vegetarisch wird in der Fritteuse zubereitet um 13:48
+Bestellung 116: Start Vorarbeitstheke um 13:48 (Bestellt um 13:48)
+Bestellung 117: Start Vorarbeitstheke um 13:49 (Bestellt um 13:49)
+Bestellung 118: Start Vorarbeitstheke um 13:52 (Bestellt um 13:52)
+Bestellung 42: Warme Zutaten fertig an der Vorarbeitstheke um 13:52
+Bestellung 42: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:52
+Bestellung 44: Zuarbeiter*in zugewiesen um 13:52
+Bestellung 44: Zutaten aus Gefrierschrank entnommen nach 0.17 Minuten
+Bestellung 44: Fleisch-Pattie wird auf dem Grill angebraten um 13:52
+Bestellung 119: Start Vorarbeitstheke um 13:54 (Bestellt um 13:54)
+Bestellung 44: Fleisch-Pattie zieht im Garschrank durch um 13:54
+Bestellung 120: Start Vorarbeitstheke um 13:55 (Bestellt um 13:55)
+Bestellung 43: Warme Zutaten fertig an der Vorarbeitstheke um 13:55
+Bestellung 43: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:55
+Bestellung 45: Zuarbeiter*in zugewiesen um 13:55
+Bestellung 45: Zutaten aus Gefrierschrank entnommen nach 0.29 Minuten
+Bestellung 45: Vegetarisch wird in der Fritteuse zubereitet um 13:56
+Bestellung 121: Start Vorarbeitstheke um 13:56 (Bestellt um 13:56)
+Bestellung 122: Start Vorarbeitstheke um 13:57 (Bestellt um 13:57)
+Bestellung 44: Warme Zutaten fertig an der Vorarbeitstheke um 13:57
+Bestellung 44: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:57
+Bestellung 46: Zuarbeiter*in zugewiesen um 13:57
+Bestellung 46: Zutaten aus Gefrierschrank entnommen nach 0.36 Minuten
+Bestellung 46: Vegetarisch wird in der Fritteuse zubereitet um 13:58
+Bestellung 123: Start Vorarbeitstheke um 13:59 (Bestellt um 13:59)
+Bestellung 45: Warme Zutaten fertig an der Vorarbeitstheke um 14:03
+Bestellung 45: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:03
+Bestellung 47: Zuarbeiter*in zugewiesen um 14:03
+Bestellung 47: Zutaten aus Gefrierschrank entnommen nach 0.41 Minuten
+Bestellung 47: Geflügel wird in der Fritteuse zubereitet um 14:04
+Bestellung 46: Warme Zutaten fertig an der Vorarbeitstheke um 14:06
+Bestellung 46: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:06
+Bestellung 48: Zuarbeiter*in zugewiesen um 14:06
+Bestellung 48: Zutaten aus Gefrierschrank entnommen nach 0.26 Minuten
+Bestellung 48: Geflügel wird in der Fritteuse zubereitet um 14:06
+Bestellung 47: Warme Zutaten fertig an der Vorarbeitstheke um 14:14
+Bestellung 47: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:14
+Bestellung 49: Zuarbeiter*in zugewiesen um 14:14
+Bestellung 49: Zutaten aus Gefrierschrank entnommen nach 0.18 Minuten
+Bestellung 49: Geflügel wird in der Fritteuse zubereitet um 14:14
+Bestellung 48: Warme Zutaten fertig an der Vorarbeitstheke um 14:16
+Bestellung 48: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:16
+Bestellung 50: Zuarbeiter*in zugewiesen um 14:16
+Bestellung 50: Zutaten aus Gefrierschrank entnommen nach 0.28 Minuten
+Bestellung 50: Fleisch-Pattie wird auf dem Grill angebraten um 14:16
+Bestellung 50: Fleisch-Pattie zieht im Garschrank durch um 14:19
+Bestellung 50: Warme Zutaten fertig an der Vorarbeitstheke um 14:22
+Bestellung 50: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:22
+Bestellung 51: Zuarbeiter*in zugewiesen um 14:22
+Bestellung 51: Zutaten aus Gefrierschrank entnommen nach 0.29 Minuten
+Bestellung 51: Geflügel wird in der Fritteuse zubereitet um 14:23
+Bestellung 49: Warme Zutaten fertig an der Vorarbeitstheke um 14:24
+Bestellung 49: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:24
+Bestellung 52: Zuarbeiter*in zugewiesen um 14:24
+Bestellung 52: Zutaten aus Gefrierschrank entnommen nach 0.39 Minuten
+Bestellung 52: Fleisch-Pattie wird auf dem Grill angebraten um 14:24
+Bestellung 52: Fleisch-Pattie zieht im Garschrank durch um 14:27
+Bestellung 52: Warme Zutaten fertig an der Vorarbeitstheke um 14:30
+Bestellung 52: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:30
+Bestellung 53: Zuarbeiter*in zugewiesen um 14:30
+Bestellung 53: Zutaten aus Gefrierschrank entnommen nach 0.25 Minuten
+Bestellung 53: Vegetarisch wird in der Fritteuse zubereitet um 14:31
+Bestellung 51: Warme Zutaten fertig an der Vorarbeitstheke um 14:31
+Bestellung 51: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:31
+Bestellung 54: Zuarbeiter*in zugewiesen um 14:31
+Bestellung 54: Zutaten aus Gefrierschrank entnommen nach 0.40 Minuten
+Bestellung 54: Fleisch-Pattie wird auf dem Grill angebraten um 14:31
+Bestellung 54: Fleisch-Pattie zieht im Garschrank durch um 14:34
+Bestellung 54: Warme Zutaten fertig an der Vorarbeitstheke um 14:38
+Bestellung 54: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:38
+Bestellung 55: Zuarbeiter*in zugewiesen um 14:38
+Bestellung 55: Zutaten aus Gefrierschrank entnommen nach 0.36 Minuten
+Bestellung 55: Geflügel wird in der Fritteuse zubereitet um 14:38
+Bestellung 53: Warme Zutaten fertig an der Vorarbeitstheke um 14:40
+Bestellung 53: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:40
+Bestellung 56: Zuarbeiter*in zugewiesen um 14:40
+Bestellung 56: Zutaten aus Gefrierschrank entnommen nach 0.68 Minuten
+Bestellung 56: Vegetarisch wird in der Fritteuse zubereitet um 14:41
+Bestellung 55: Warme Zutaten fertig an der Vorarbeitstheke um 14:48
+Bestellung 55: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:48
+Bestellung 57: Zuarbeiter*in zugewiesen um 14:48
+Bestellung 57: Zutaten aus Gefrierschrank entnommen nach 0.48 Minuten
+Bestellung 57: Vegetarisch wird in der Fritteuse zubereitet um 14:48
+Bestellung 56: Warme Zutaten fertig an der Vorarbeitstheke um 14:49
+Bestellung 56: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:49
+Bestellung 58: Zuarbeiter*in zugewiesen um 14:49
+Bestellung 58: Zutaten aus Gefrierschrank entnommen nach 0.31 Minuten
+Bestellung 58: Geflügel wird in der Fritteuse zubereitet um 14:50
+Bestellung 57: Warme Zutaten fertig an der Vorarbeitstheke um 14:56
+Bestellung 57: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:56
+Bestellung 59: Zuarbeiter*in zugewiesen um 14:56
+Bestellung 59: Zutaten aus Gefrierschrank entnommen nach 0.47 Minuten
+Bestellung 59: Vegetarisch wird in der Fritteuse zubereitet um 14:56
+Bestellung 58: Warme Zutaten fertig an der Vorarbeitstheke um 14:57
+Bestellung 58: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:57
+Bestellung 60: Zuarbeiter*in zugewiesen um 14:57
+Bestellung 60: Zutaten aus Gefrierschrank entnommen nach 0.28 Minuten
+Bestellung 60: Vegetarisch wird in der Fritteuse zubereitet um 14:57
+Bestellung 60: Warme Zutaten fertig an der Vorarbeitstheke um 15:03
+Bestellung 60: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:03
+Bestellung 61: Zuarbeiter*in zugewiesen um 15:03
+Bestellung 61: Zutaten aus Gefrierschrank entnommen nach 0.30 Minuten
+Bestellung 61: Vegetarisch wird in der Fritteuse zubereitet um 15:04
+Bestellung 59: Warme Zutaten fertig an der Vorarbeitstheke um 15:04
+Bestellung 59: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:04
+Bestellung 62: Zuarbeiter*in zugewiesen um 15:04
+Bestellung 62: Zutaten aus Gefrierschrank entnommen nach 0.56 Minuten
+Bestellung 62: Geflügel wird in der Fritteuse zubereitet um 15:05
+Bestellung 62: Warme Zutaten fertig an der Vorarbeitstheke um 15:11
+Bestellung 62: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:11
+Bestellung 63: Zuarbeiter*in zugewiesen um 15:11
+Bestellung 63: Zutaten aus Gefrierschrank entnommen nach 0.38 Minuten
+Bestellung 63: Fleisch-Pattie wird auf dem Grill angebraten um 15:12
+Bestellung 61: Warme Zutaten fertig an der Vorarbeitstheke um 15:12
+Bestellung 61: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:12
+Bestellung 64: Zuarbeiter*in zugewiesen um 15:12
+Bestellung 64: Zutaten aus Gefrierschrank entnommen nach 0.22 Minuten
+Bestellung 64: Geflügel wird in der Fritteuse zubereitet um 15:12
+Bestellung 63: Fleisch-Pattie zieht im Garschrank durch um 15:14
+Bestellung 63: Warme Zutaten fertig an der Vorarbeitstheke um 15:18
+Bestellung 63: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:18
+Bestellung 65: Zuarbeiter*in zugewiesen um 15:18
+Bestellung 65: Zutaten aus Gefrierschrank entnommen nach 0.19 Minuten
+Bestellung 65: Vegetarisch wird in der Fritteuse zubereitet um 15:18
+Bestellung 64: Warme Zutaten fertig an der Vorarbeitstheke um 15:19
+Bestellung 64: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:19
+Bestellung 66: Zuarbeiter*in zugewiesen um 15:19
+Bestellung 66: Zutaten aus Gefrierschrank entnommen nach 0.27 Minuten
+Bestellung 66: Vegetarisch wird in der Fritteuse zubereitet um 15:19
+Bestellung 65: Warme Zutaten fertig an der Vorarbeitstheke um 15:27
+Bestellung 65: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:27
+Bestellung 67: Zuarbeiter*in zugewiesen um 15:27
+Bestellung 67: Zutaten aus Gefrierschrank entnommen nach 0.52 Minuten
+Bestellung 67: Vegetarisch wird in der Fritteuse zubereitet um 15:28
+Bestellung 66: Warme Zutaten fertig an der Vorarbeitstheke um 15:28
+Bestellung 66: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:28
+Bestellung 68: Zuarbeiter*in zugewiesen um 15:28
+Bestellung 68: Zutaten aus Gefrierschrank entnommen nach 0.34 Minuten
+Bestellung 68: Geflügel wird in der Fritteuse zubereitet um 15:29
+Bestellung 67: Warme Zutaten fertig an der Vorarbeitstheke um 15:37
+Bestellung 67: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:37
+Bestellung 69: Zuarbeiter*in zugewiesen um 15:37
+Bestellung 69: Zutaten aus Gefrierschrank entnommen nach 0.30 Minuten
+Bestellung 69: Fleisch-Pattie wird auf dem Grill angebraten um 15:37
+Bestellung 68: Warme Zutaten fertig an der Vorarbeitstheke um 15:38
+Bestellung 68: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:38
+Bestellung 70: Zuarbeiter*in zugewiesen um 15:38
+Bestellung 70: Zutaten aus Gefrierschrank entnommen nach 0.30 Minuten
+Bestellung 70: Vegetarisch wird in der Fritteuse zubereitet um 15:38
+Bestellung 69: Fleisch-Pattie zieht im Garschrank durch um 15:40
+Bestellung 69: Warme Zutaten fertig an der Vorarbeitstheke um 15:44
+Bestellung 69: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:44
+Bestellung 71: Zuarbeiter*in zugewiesen um 15:44
+Bestellung 71: Zutaten aus Gefrierschrank entnommen nach 0.33 Minuten
+Bestellung 71: Geflügel wird in der Fritteuse zubereitet um 15:44
+Bestellung 70: Warme Zutaten fertig an der Vorarbeitstheke um 15:48
+Bestellung 70: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:48
+Bestellung 72: Zuarbeiter*in zugewiesen um 15:48
+Bestellung 72: Zutaten aus Gefrierschrank entnommen nach 0.47 Minuten
+Bestellung 72: Fleisch-Pattie wird auf dem Grill angebraten um 15:48
+Bestellung 72: Fleisch-Pattie zieht im Garschrank durch um 15:51
+Bestellung 71: Warme Zutaten fertig an der Vorarbeitstheke um 15:54
+Bestellung 71: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:54
+Bestellung 73: Zuarbeiter*in zugewiesen um 15:54
+Bestellung 73: Zutaten aus Gefrierschrank entnommen nach 0.47 Minuten
+Bestellung 73: Geflügel wird in der Fritteuse zubereitet um 15:54
+Bestellung 72: Warme Zutaten fertig an der Vorarbeitstheke um 15:55
+Bestellung 72: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:55
+Bestellung 74: Zuarbeiter*in zugewiesen um 15:55
+Bestellung 74: Zutaten aus Gefrierschrank entnommen nach 0.27 Minuten
+Bestellung 74: Fleisch-Pattie wird auf dem Grill angebraten um 15:55
+Bestellung 74: Fleisch-Pattie zieht im Garschrank durch um 15:58
+Bestellung 74: Warme Zutaten fertig an der Vorarbeitstheke um 16:03
+Bestellung 74: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:03
+Bestellung 75: Zuarbeiter*in zugewiesen um 16:03
+Bestellung 73: Warme Zutaten fertig an der Vorarbeitstheke um 16:03
+Bestellung 73: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:03
+Bestellung 76: Zuarbeiter*in zugewiesen um 16:03
+Bestellung 75: Zutaten aus Gefrierschrank entnommen nach 0.35 Minuten
+Bestellung 75: Vegetarisch wird in der Fritteuse zubereitet um 16:03
+Bestellung 76: Zutaten aus Gefrierschrank entnommen nach 0.27 Minuten
+Bestellung 76: Fleisch-Pattie wird auf dem Grill angebraten um 16:03
+Bestellung 76: Fleisch-Pattie zieht im Garschrank durch um 16:06
+Bestellung 76: Warme Zutaten fertig an der Vorarbeitstheke um 16:09
+Bestellung 76: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:09
+Bestellung 77: Zuarbeiter*in zugewiesen um 16:09
+Bestellung 77: Zutaten aus Gefrierschrank entnommen nach 0.48 Minuten
+Bestellung 77: Vegetarisch wird in der Fritteuse zubereitet um 16:10
+Bestellung 75: Warme Zutaten fertig an der Vorarbeitstheke um 16:11
+Bestellung 75: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:11
+Bestellung 78: Zuarbeiter*in zugewiesen um 16:11
+Bestellung 78: Zutaten aus Gefrierschrank entnommen nach 0.24 Minuten
+Bestellung 78: Vegetarisch wird in der Fritteuse zubereitet um 16:11
+Bestellung 77: Warme Zutaten fertig an der Vorarbeitstheke um 16:18
+Bestellung 77: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:18
+Bestellung 79: Zuarbeiter*in zugewiesen um 16:18
+Bestellung 79: Zutaten aus Gefrierschrank entnommen nach 0.23 Minuten
+Bestellung 79: Vegetarisch wird in der Fritteuse zubereitet um 16:18
+Bestellung 78: Warme Zutaten fertig an der Vorarbeitstheke um 16:20
+Bestellung 78: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:20
+Bestellung 80: Zuarbeiter*in zugewiesen um 16:20
+Bestellung 80: Zutaten aus Gefrierschrank entnommen nach 0.53 Minuten
+Bestellung 80: Geflügel wird in der Fritteuse zubereitet um 16:20
+Bestellung 79: Warme Zutaten fertig an der Vorarbeitstheke um 16:27
+Bestellung 79: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:27
+Bestellung 81: Zuarbeiter*in zugewiesen um 16:27
+Bestellung 81: Zutaten aus Gefrierschrank entnommen nach 0.27 Minuten
+Bestellung 81: Vegetarisch wird in der Fritteuse zubereitet um 16:27
+Bestellung 80: Warme Zutaten fertig an der Vorarbeitstheke um 16:29
+Bestellung 80: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:29
+Bestellung 82: Zuarbeiter*in zugewiesen um 16:29
+Bestellung 82: Zutaten aus Gefrierschrank entnommen nach 0.26 Minuten
+Bestellung 82: Vegetarisch wird in der Fritteuse zubereitet um 16:29
+Bestellung 81: Warme Zutaten fertig an der Vorarbeitstheke um 16:36
+Bestellung 81: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:36
+Bestellung 83: Zuarbeiter*in zugewiesen um 16:36
+Bestellung 83: Zutaten aus Gefrierschrank entnommen nach 0.22 Minuten
+Bestellung 83: Fleisch-Pattie wird auf dem Grill angebraten um 16:36
+Bestellung 82: Warme Zutaten fertig an der Vorarbeitstheke um 16:37
+Bestellung 82: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:37
+Bestellung 84: Zuarbeiter*in zugewiesen um 16:37
+Bestellung 84: Zutaten aus Gefrierschrank entnommen nach 0.30 Minuten
+Bestellung 83: Fleisch-Pattie zieht im Garschrank durch um 16:39
+Bestellung 84: Fleisch-Pattie wird auf dem Grill angebraten um 16:39
+Bestellung 83: Warme Zutaten fertig an der Vorarbeitstheke um 16:43
+Bestellung 83: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:43
+Bestellung 84: Fleisch-Pattie zieht im Garschrank durch um 16:43
+Bestellung 85: Zuarbeiter*in zugewiesen um 16:43
+Bestellung 85: Zutaten aus Gefrierschrank entnommen nach 0.32 Minuten
+Bestellung 85: Vegetarisch wird in der Fritteuse zubereitet um 16:43
+Bestellung 84: Warme Zutaten fertig an der Vorarbeitstheke um 16:47
+Bestellung 84: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:47
+Bestellung 86: Zuarbeiter*in zugewiesen um 16:47
+Bestellung 86: Zutaten aus Gefrierschrank entnommen nach 0.22 Minuten
+Bestellung 86: Vegetarisch wird in der Fritteuse zubereitet um 16:47
+Bestellung 85: Warme Zutaten fertig an der Vorarbeitstheke um 16:50
+Bestellung 85: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:50
+Bestellung 87: Zuarbeiter*in zugewiesen um 16:50
+Bestellung 87: Zutaten aus Gefrierschrank entnommen nach 0.51 Minuten
+Bestellung 87: Geflügel wird in der Fritteuse zubereitet um 16:50
+Bestellung 86: Warme Zutaten fertig an der Vorarbeitstheke um 16:56
+Bestellung 86: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:56
+Bestellung 88: Zuarbeiter*in zugewiesen um 16:56
+Bestellung 88: Zutaten aus Gefrierschrank entnommen nach 0.31 Minuten
+Bestellung 88: Fleisch-Pattie wird auf dem Grill angebraten um 16:56
+Bestellung 87: Warme Zutaten fertig an der Vorarbeitstheke um 16:57
+Bestellung 87: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:57
+Bestellung 89: Zuarbeiter*in zugewiesen um 16:57
+Bestellung 89: Zutaten aus Gefrierschrank entnommen nach 0.31 Minuten
+Bestellung 89: Geflügel wird in der Fritteuse zubereitet um 16:57
+Bestellung 88: Fleisch-Pattie zieht im Garschrank durch um 16:58
+Bestellung 88: Warme Zutaten fertig an der Vorarbeitstheke um 17:02
+Bestellung 88: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:02
+Bestellung 90: Zuarbeiter*in zugewiesen um 17:02
+Bestellung 90: Zutaten aus Gefrierschrank entnommen nach 0.23 Minuten
+Bestellung 90: Geflügel wird in der Fritteuse zubereitet um 17:03
+Bestellung 89: Warme Zutaten fertig an der Vorarbeitstheke um 17:07
+Bestellung 89: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:07
+Bestellung 91: Zuarbeiter*in zugewiesen um 17:07
+Bestellung 91: Zutaten aus Gefrierschrank entnommen nach 0.23 Minuten
+Bestellung 91: Geflügel wird in der Fritteuse zubereitet um 17:07
+Bestellung 90: Warme Zutaten fertig an der Vorarbeitstheke um 17:11
+Bestellung 90: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:11
+Bestellung 92: Zuarbeiter*in zugewiesen um 17:11
+Bestellung 92: Zutaten aus Gefrierschrank entnommen nach 0.37 Minuten
+Bestellung 92: Geflügel wird in der Fritteuse zubereitet um 17:12
+Bestellung 91: Warme Zutaten fertig an der Vorarbeitstheke um 17:15
+Bestellung 91: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:15
+Bestellung 93: Zuarbeiter*in zugewiesen um 17:15
+Bestellung 93: Zutaten aus Gefrierschrank entnommen nach 0.37 Minuten
+Bestellung 93: Geflügel wird in der Fritteuse zubereitet um 17:15
+Bestellung 92: Warme Zutaten fertig an der Vorarbeitstheke um 17:19
+Bestellung 92: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:19
+Bestellung 94: Zuarbeiter*in zugewiesen um 17:19
+Bestellung 94: Zutaten aus Gefrierschrank entnommen nach 0.36 Minuten
+Bestellung 94: Fleisch-Pattie wird auf dem Grill angebraten um 17:20
+Bestellung 94: Fleisch-Pattie zieht im Garschrank durch um 17:23
+Bestellung 93: Warme Zutaten fertig an der Vorarbeitstheke um 17:24
+Bestellung 93: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:24
+Bestellung 95: Zuarbeiter*in zugewiesen um 17:24
+Bestellung 95: Zutaten aus Gefrierschrank entnommen nach 0.39 Minuten
+Bestellung 95: Geflügel wird in der Fritteuse zubereitet um 17:24
+Bestellung 94: Warme Zutaten fertig an der Vorarbeitstheke um 17:26
+Bestellung 94: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:26
+Bestellung 96: Zuarbeiter*in zugewiesen um 17:26
+Bestellung 96: Zutaten aus Gefrierschrank entnommen nach 0.29 Minuten
+Bestellung 96: Geflügel wird in der Fritteuse zubereitet um 17:27
+Bestellung 95: Warme Zutaten fertig an der Vorarbeitstheke um 17:31
+Bestellung 95: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:31
+Bestellung 97: Zuarbeiter*in zugewiesen um 17:31
+Bestellung 97: Zutaten aus Gefrierschrank entnommen nach 0.21 Minuten
+Bestellung 97: Geflügel wird in der Fritteuse zubereitet um 17:31
+Bestellung 96: Warme Zutaten fertig an der Vorarbeitstheke um 17:33
+Bestellung 96: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:33
+Bestellung 98: Zuarbeiter*in zugewiesen um 17:33
+Bestellung 98: Zutaten aus Gefrierschrank entnommen nach 0.76 Minuten
+Bestellung 98: Geflügel wird in der Fritteuse zubereitet um 17:33
+Bestellung 97: Warme Zutaten fertig an der Vorarbeitstheke um 17:40
+Bestellung 97: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:40
+Bestellung 99: Zuarbeiter*in zugewiesen um 17:40
+Bestellung 99: Zutaten aus Gefrierschrank entnommen nach 0.14 Minuten
+Bestellung 99: Geflügel wird in der Fritteuse zubereitet um 17:40
+Bestellung 98: Warme Zutaten fertig an der Vorarbeitstheke um 17:42
+Bestellung 98: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:42
+Bestellung 100: Zuarbeiter*in zugewiesen um 17:42
+Bestellung 100: Zutaten aus Gefrierschrank entnommen nach 0.43 Minuten
+Bestellung 100: Fleisch-Pattie wird auf dem Grill angebraten um 17:43
+Bestellung 100: Fleisch-Pattie zieht im Garschrank durch um 17:46
+Bestellung 99: Warme Zutaten fertig an der Vorarbeitstheke um 17:48
+Bestellung 99: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:48
+Bestellung 101: Zuarbeiter*in zugewiesen um 17:48
+Bestellung 101: Zutaten aus Gefrierschrank entnommen nach 0.25 Minuten
+Bestellung 101: Fleisch-Pattie wird auf dem Grill angebraten um 17:48
+Bestellung 100: Warme Zutaten fertig an der Vorarbeitstheke um 17:50
+Bestellung 100: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:50
+Bestellung 102: Zuarbeiter*in zugewiesen um 17:50
+Bestellung 102: Zutaten aus Gefrierschrank entnommen nach 0.29 Minuten
+Bestellung 102: Geflügel wird in der Fritteuse zubereitet um 17:51
+Bestellung 101: Fleisch-Pattie zieht im Garschrank durch um 17:51
+Bestellung 101: Warme Zutaten fertig an der Vorarbeitstheke um 17:54
+Bestellung 101: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:54
+Bestellung 103: Zuarbeiter*in zugewiesen um 17:54
+Bestellung 103: Zutaten aus Gefrierschrank entnommen nach 0.22 Minuten
+Bestellung 103: Fleisch-Pattie wird auf dem Grill angebraten um 17:54
+Bestellung 103: Fleisch-Pattie zieht im Garschrank durch um 17:57
+Bestellung 102: Warme Zutaten fertig an der Vorarbeitstheke um 18:00
+Bestellung 102: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:00
+Bestellung 104: Zuarbeiter*in zugewiesen um 18:00
+Bestellung 103: Warme Zutaten fertig an der Vorarbeitstheke um 18:00
+Bestellung 103: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:00
+Bestellung 105: Zuarbeiter*in zugewiesen um 18:00
+Bestellung 104: Zutaten aus Gefrierschrank entnommen nach 0.62 Minuten
+Bestellung 104: Vegetarisch wird in der Fritteuse zubereitet um 18:00
+Bestellung 105: Zutaten aus Gefrierschrank entnommen nach 0.38 Minuten
+Bestellung 105: Geflügel wird in der Fritteuse zubereitet um 18:01
+Bestellung 105: Warme Zutaten fertig an der Vorarbeitstheke um 18:08
+Bestellung 105: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:08
+Bestellung 106: Zuarbeiter*in zugewiesen um 18:08
+Bestellung 106: Zutaten aus Gefrierschrank entnommen nach 0.19 Minuten
+Bestellung 106: Fleisch-Pattie wird auf dem Grill angebraten um 18:08
+Bestellung 104: Warme Zutaten fertig an der Vorarbeitstheke um 18:09
+Bestellung 104: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:09
+Bestellung 107: Zuarbeiter*in zugewiesen um 18:09
+Bestellung 107: Zutaten aus Gefrierschrank entnommen nach 0.28 Minuten
+Bestellung 107: Geflügel wird in der Fritteuse zubereitet um 18:09
+Bestellung 106: Fleisch-Pattie zieht im Garschrank durch um 18:10
+Bestellung 106: Warme Zutaten fertig an der Vorarbeitstheke um 18:15
+Bestellung 106: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:15
+Bestellung 108: Zuarbeiter*in zugewiesen um 18:15
+Bestellung 108: Zutaten aus Gefrierschrank entnommen nach 0.50 Minuten
+Bestellung 108: Vegetarisch wird in der Fritteuse zubereitet um 18:16
+Bestellung 107: Warme Zutaten fertig an der Vorarbeitstheke um 18:18
+Bestellung 107: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:18
+Bestellung 109: Zuarbeiter*in zugewiesen um 18:18
+Bestellung 109: Zutaten aus Gefrierschrank entnommen nach 0.34 Minuten
+Bestellung 109: Vegetarisch wird in der Fritteuse zubereitet um 18:18
+Bestellung 108: Warme Zutaten fertig an der Vorarbeitstheke um 18:25
+Bestellung 108: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:25
+Bestellung 110: Zuarbeiter*in zugewiesen um 18:25
+Bestellung 110: Zutaten aus Gefrierschrank entnommen nach 0.35 Minuten
+Bestellung 110: Fleisch-Pattie wird auf dem Grill angebraten um 18:25
+Bestellung 110: Fleisch-Pattie zieht im Garschrank durch um 18:28
+Bestellung 109: Warme Zutaten fertig an der Vorarbeitstheke um 18:28
+Bestellung 109: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:28
+Bestellung 111: Zuarbeiter*in zugewiesen um 18:28
+Bestellung 111: Zutaten aus Gefrierschrank entnommen nach 0.25 Minuten
+Bestellung 111: Fleisch-Pattie wird auf dem Grill angebraten um 18:28
+Bestellung 110: Warme Zutaten fertig an der Vorarbeitstheke um 18:32
+Bestellung 110: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:32
+Bestellung 111: Fleisch-Pattie zieht im Garschrank durch um 18:32
+Bestellung 112: Zuarbeiter*in zugewiesen um 18:32
+Bestellung 112: Zutaten aus Gefrierschrank entnommen nach 0.21 Minuten
+Bestellung 112: Vegetarisch wird in der Fritteuse zubereitet um 18:32
+Bestellung 111: Warme Zutaten fertig an der Vorarbeitstheke um 18:35
+Bestellung 111: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:35
+Bestellung 113: Zuarbeiter*in zugewiesen um 18:35
+Bestellung 113: Zutaten aus Gefrierschrank entnommen nach 0.48 Minuten
+Bestellung 113: Fleisch-Pattie wird auf dem Grill angebraten um 18:36
+Bestellung 113: Fleisch-Pattie zieht im Garschrank durch um 18:39
+Bestellung 112: Warme Zutaten fertig an der Vorarbeitstheke um 18:42
+Bestellung 112: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:42
+Bestellung 114: Zuarbeiter*in zugewiesen um 18:42
+Bestellung 114: Zutaten aus Gefrierschrank entnommen nach 0.32 Minuten
+Bestellung 114: Fleisch-Pattie wird auf dem Grill angebraten um 18:42
+Bestellung 113: Warme Zutaten fertig an der Vorarbeitstheke um 18:43
+Bestellung 113: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:43
+Bestellung 115: Zuarbeiter*in zugewiesen um 18:43
+Bestellung 115: Zutaten aus Gefrierschrank entnommen nach 0.15 Minuten
+Bestellung 115: Geflügel wird in der Fritteuse zubereitet um 18:43
+Bestellung 114: Fleisch-Pattie zieht im Garschrank durch um 18:45
+Bestellung 114: Warme Zutaten fertig an der Vorarbeitstheke um 18:49
+Bestellung 114: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:49
+Bestellung 116: Zuarbeiter*in zugewiesen um 18:49
+Bestellung 116: Zutaten aus Gefrierschrank entnommen nach 0.30 Minuten
+Bestellung 116: Geflügel wird in der Fritteuse zubereitet um 18:49
+Bestellung 115: Warme Zutaten fertig an der Vorarbeitstheke um 18:49
+Bestellung 115: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:49
+Bestellung 117: Zuarbeiter*in zugewiesen um 18:49
+Bestellung 117: Zutaten aus Gefrierschrank entnommen nach 0.38 Minuten
+Bestellung 117: Fleisch-Pattie wird auf dem Grill angebraten um 18:50
+Bestellung 117: Fleisch-Pattie zieht im Garschrank durch um 18:53
+Bestellung 116: Warme Zutaten fertig an der Vorarbeitstheke um 18:57
+Bestellung 116: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:57
+Bestellung 118: Zuarbeiter*in zugewiesen um 18:57
+Bestellung 118: Zutaten aus Gefrierschrank entnommen nach 0.31 Minuten
+Bestellung 118: Fleisch-Pattie wird auf dem Grill angebraten um 18:57
+Bestellung 117: Warme Zutaten fertig an der Vorarbeitstheke um 18:58
+Bestellung 117: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:58
+Bestellung 119: Zuarbeiter*in zugewiesen um 18:58
+Bestellung 119: Zutaten aus Gefrierschrank entnommen nach 0.25 Minuten
+Bestellung 119: Geflügel wird in der Fritteuse zubereitet um 18:58
+Bestellung 118: Fleisch-Pattie zieht im Garschrank durch um 18:59
+Bestellung 118: Warme Zutaten fertig an der Vorarbeitstheke um 19:04
+Bestellung 118: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 19:04
+Bestellung 120: Zuarbeiter*in zugewiesen um 19:04
+Bestellung 120: Zutaten aus Gefrierschrank entnommen nach 0.34 Minuten
+Bestellung 120: Fleisch-Pattie wird auf dem Grill angebraten um 19:04
+Bestellung 120: Fleisch-Pattie zieht im Garschrank durch um 19:06
+Bestellung 119: Warme Zutaten fertig an der Vorarbeitstheke um 19:06
+Bestellung 119: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 19:06
+Bestellung 121: Zuarbeiter*in zugewiesen um 19:06
+Bestellung 121: Zutaten aus Gefrierschrank entnommen nach 0.34 Minuten
+Bestellung 121: Vegetarisch wird in der Fritteuse zubereitet um 19:07
+Bestellung 120: Warme Zutaten fertig an der Vorarbeitstheke um 19:10
+Bestellung 120: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 19:10
+Bestellung 122: Zuarbeiter*in zugewiesen um 19:10
+Bestellung 122: Zutaten aus Gefrierschrank entnommen nach 0.46 Minuten
+Bestellung 122: Fleisch-Pattie wird auf dem Grill angebraten um 19:10
+Bestellung 122: Fleisch-Pattie zieht im Garschrank durch um 19:13
+Bestellung 121: Warme Zutaten fertig an der Vorarbeitstheke um 19:15
+Bestellung 121: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 19:15
+Bestellung 123: Zuarbeiter*in zugewiesen um 19:15
+Bestellung 123: Zutaten aus Gefrierschrank entnommen nach 0.34 Minuten
+Bestellung 123: Vegetarisch wird in der Fritteuse zubereitet um 19:15
+Bestellung 122: Warme Zutaten fertig an der Vorarbeitstheke um 19:16
+Bestellung 122: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 19:16
+Bestellung 123: Warme Zutaten fertig an der Vorarbeitstheke um 19:22
+Bestellung 123: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 19:22
+Bestellung 0: Start Vorarbeitstheke um 11:00 (Bestellt um 11:00)
+Bestellung 0: Zuarbeiter*in zugewiesen um 11:00
+Bestellung 0: Zutaten aus Gefrierschrank entnommen nach 0.22 Minuten
+Bestellung 0: Vegetarisch wird in der Fritteuse zubereitet um 11:00
+Bestellung 1: Start Vorarbeitstheke um 11:01 (Bestellt um 11:01)
+Bestellung 1: Zuarbeiter*in zugewiesen um 11:01
+Bestellung 1: Zutaten aus Gefrierschrank entnommen nach 0.39 Minuten
+Bestellung 1: Geflügel wird in der Fritteuse zubereitet um 11:01
+Bestellung 2: Start Vorarbeitstheke um 11:02 (Bestellt um 11:02)
+Bestellung 3: Start Vorarbeitstheke um 11:05 (Bestellt um 11:05)
+Bestellung 0: Warme Zutaten fertig an der Vorarbeitstheke um 11:07
+Bestellung 2: Zuarbeiter*in zugewiesen um 11:07
+Bestellung 2: Zutaten aus Gefrierschrank entnommen nach 0.43 Minuten
+Bestellung 2: Vegetarisch wird in der Fritteuse zubereitet um 11:07
+Bestellung 4: Start Vorarbeitstheke um 11:08 (Bestellt um 11:08)
+Bestellung 1: Warme Zutaten fertig an der Vorarbeitstheke um 11:08
+Bestellung 3: Zuarbeiter*in zugewiesen um 11:08
+Bestellung 3: Zutaten aus Gefrierschrank entnommen nach 0.36 Minuten
+Bestellung 3: Fleisch-Pattie wird auf dem Grill angebraten um 11:09
+Bestellung 5: Start Vorarbeitstheke um 11:10 (Bestellt um 11:10)
+Bestellung 6: Start Vorarbeitstheke um 11:11 (Bestellt um 11:11)
+Bestellung 3: Fleisch-Pattie zieht im Garschrank durch um 11:11
+Bestellung 7: Start Vorarbeitstheke um 11:11 (Bestellt um 11:11)
+Bestellung 8: Start Vorarbeitstheke um 11:13 (Bestellt um 11:13)
+Bestellung 9: Start Vorarbeitstheke um 11:15 (Bestellt um 11:15)
+Bestellung 2: Warme Zutaten fertig an der Vorarbeitstheke um 11:15
+Bestellung 4: Zuarbeiter*in zugewiesen um 11:15
+Bestellung 4: Zutaten aus Gefrierschrank entnommen nach 0.41 Minuten
+Bestellung 4: Geflügel wird in der Fritteuse zubereitet um 11:15
+Bestellung 10: Start Vorarbeitstheke um 11:15 (Bestellt um 11:15)
+Bestellung 3: Warme Zutaten fertig an der Vorarbeitstheke um 11:15
+Bestellung 5: Zuarbeiter*in zugewiesen um 11:15
+Bestellung 5: Zutaten aus Gefrierschrank entnommen nach 0.37 Minuten
+Bestellung 5: Fleisch-Pattie wird auf dem Grill angebraten um 11:16
+Bestellung 5: Fleisch-Pattie zieht im Garschrank durch um 11:18
+Bestellung 11: Start Vorarbeitstheke um 11:18 (Bestellt um 11:18)
+Bestellung 12: Start Vorarbeitstheke um 11:21 (Bestellt um 11:21)
+Bestellung 5: Warme Zutaten fertig an der Vorarbeitstheke um 11:21
+Bestellung 6: Zuarbeiter*in zugewiesen um 11:21
+Bestellung 6: Zutaten aus Gefrierschrank entnommen nach 0.35 Minuten
+Bestellung 6: Vegetarisch wird in der Fritteuse zubereitet um 11:22
+Bestellung 13: Start Vorarbeitstheke um 11:22 (Bestellt um 11:22)
+Bestellung 14: Start Vorarbeitstheke um 11:22 (Bestellt um 11:22)
+Bestellung 15: Start Vorarbeitstheke um 11:23 (Bestellt um 11:23)
+Bestellung 4: Warme Zutaten fertig an der Vorarbeitstheke um 11:24
+Bestellung 7: Zuarbeiter*in zugewiesen um 11:24
+Bestellung 0: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:25
+Bestellung 0: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:25
+Bestellung 7: Zutaten aus Gefrierschrank entnommen nach 0.33 Minuten
+Bestellung 7: Vegetarisch wird in der Fritteuse zubereitet um 11:25
+Bestellung 16: Start Vorarbeitstheke um 11:25 (Bestellt um 11:25)
+Bestellung 0: Bun getoastet um 11:25
+Bestellung 0: Burger belegt um 11:25
+Bestellung 0: Burger fertiggestellt und verpackt um 11:26 (Dauer: 26.09 Minuten)
+Bestellung 0: Burger zur Abholung bereit um 11:26 (Dauer: 26.09 Minuten)
+Bestellung 1: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:26
+Bestellung 1: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:26
+Bestellung 1: Bun getoastet um 11:26
+Bestellung 1: Burger belegt um 11:26
+Bestellung 1: Zusätzliche Zeit für Pommes hinzugefügt
+Bestellung 1: Burger fertiggestellt und verpackt um 11:27 (Dauer: 26.36 Minuten)
+Bestellung 1: Burger zur Abholung bereit um 11:27 (Dauer: 26.36 Minuten)
+Bestellung 2: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:27
+Bestellung 2: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:27
+Bestellung 6: Warme Zutaten fertig an der Vorarbeitstheke um 11:28
+Bestellung 8: Zuarbeiter*in zugewiesen um 11:28
+Bestellung 2: Bun getoastet um 11:28
+Bestellung 2: Burger belegt um 11:28
+Bestellung 8: Zutaten aus Gefrierschrank entnommen nach 0.34 Minuten
+Bestellung 8: Geflügel wird in der Fritteuse zubereitet um 11:28
+Bestellung 2: Burger fertiggestellt und verpackt um 11:29 (Dauer: 26.15 Minuten)
+Bestellung 2: Burger zur Abholung bereit um 11:29 (Dauer: 26.15 Minuten)
+Bestellung 17: Start Vorarbeitstheke um 11:29 (Bestellt um 11:29)
+Bestellung 3: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:30
+Bestellung 3: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:30
+Bestellung 18: Start Vorarbeitstheke um 11:30 (Bestellt um 11:30)
+Bestellung 3: Bun getoastet um 11:30
+Bestellung 3: Burger belegt um 11:31
+Bestellung 3: Burger fertiggestellt und verpackt um 11:31 (Dauer: 26.05 Minuten)
+Bestellung 3: Burger zur Abholung bereit um 11:31 (Dauer: 26.05 Minuten)
+Bestellung 7: Warme Zutaten fertig an der Vorarbeitstheke um 11:32
+Bestellung 9: Zuarbeiter*in zugewiesen um 11:32
+Bestellung 19: Start Vorarbeitstheke um 11:32 (Bestellt um 11:32)
+Bestellung 9: Zutaten aus Gefrierschrank entnommen nach 0.39 Minuten
+Bestellung 9: Geflügel wird in der Fritteuse zubereitet um 11:32
+Bestellung 4: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:33
+Bestellung 4: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:33
+Bestellung 4: Bun getoastet um 11:34
+Bestellung 4: Burger belegt um 11:34
+Bestellung 4: Zusätzliche Zeit für Pommes hinzugefügt
+Bestellung 4: Burger fertiggestellt und verpackt um 11:34 (Dauer: 26.35 Minuten)
+Bestellung 4: Burger zur Abholung bereit um 11:34 (Dauer: 26.35 Minuten)
+Bestellung 20: Start Vorarbeitstheke um 11:34 (Bestellt um 11:34)
+Bestellung 5: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:35
+Bestellung 5: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:35
+Bestellung 6: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:36
+Bestellung 5: Bun getoastet um 11:36
+Bestellung 5: Burger belegt um 11:36
+Bestellung 7: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:36
+Bestellung 5: Burger fertiggestellt und verpackt um 11:36 (Dauer: 26.00 Minuten)
+Bestellung 5: Burger zur Abholung bereit um 11:36 (Dauer: 26.00 Minuten)
+Bestellung 6: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:36
+Bestellung 8: Warme Zutaten fertig an der Vorarbeitstheke um 11:37
+Bestellung 10: Zuarbeiter*in zugewiesen um 11:37
+Bestellung 6: Bun getoastet um 11:37
+Bestellung 10: Zutaten aus Gefrierschrank entnommen nach 0.34 Minuten
+Bestellung 10: Fleisch-Pattie wird auf dem Grill angebraten um 11:37
+Bestellung 6: Burger belegt um 11:37
+Bestellung 6: Zusätzliche Zeit für Pommes hinzugefügt
+Bestellung 6: Burger fertiggestellt und verpackt um 11:38 (Dauer: 26.85 Minuten)
+Bestellung 6: Burger zur Abholung bereit um 11:38 (Dauer: 26.85 Minuten)
+Bestellung 7: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:38
+Bestellung 21: Start Vorarbeitstheke um 11:38 (Bestellt um 11:38)
+Bestellung 8: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:38
+Bestellung 7: Bun getoastet um 11:39
+Bestellung 7: Burger belegt um 11:39
+Bestellung 7: Zusätzliche Zeit für Pommes hinzugefügt
+Bestellung 10: Fleisch-Pattie zieht im Garschrank durch um 11:39
+Bestellung 7: Burger fertiggestellt und verpackt um 11:39 (Dauer: 28.22 Minuten)
+Bestellung 7: Burger zur Abholung bereit um 11:39 (Dauer: 28.22 Minuten)
+Bestellung 8: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:39
+Bestellung 22: Start Vorarbeitstheke um 11:40 (Bestellt um 11:40)
+Bestellung 23: Start Vorarbeitstheke um 11:40 (Bestellt um 11:40)
+Bestellung 9: Warme Zutaten fertig an der Vorarbeitstheke um 11:40
+Bestellung 9: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:40
+Bestellung 11: Zuarbeiter*in zugewiesen um 11:40
+Bestellung 8: Bun getoastet um 11:40
+Bestellung 11: Zutaten aus Gefrierschrank entnommen nach 0.26 Minuten
+Bestellung 11: Vegetarisch wird in der Fritteuse zubereitet um 11:40
+Bestellung 8: Burger belegt um 11:40
+Bestellung 8: Burger fertiggestellt und verpackt um 11:41 (Dauer: 27.27 Minuten)
+Bestellung 8: Burger zur Abholung bereit um 11:41 (Dauer: 27.27 Minuten)
+Bestellung 9: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:41
+Bestellung 24: Start Vorarbeitstheke um 11:41 (Bestellt um 11:41)
+Bestellung 9: Bun getoastet um 11:41
+Bestellung 9: Burger belegt um 11:41
+Bestellung 9: Zusätzliche Zeit für Pommes hinzugefügt
+Bestellung 25: Start Vorarbeitstheke um 11:42 (Bestellt um 11:42)
+Bestellung 26: Start Vorarbeitstheke um 11:42 (Bestellt um 11:42)
+Bestellung 9: Burger fertiggestellt und verpackt um 11:42 (Dauer: 27.53 Minuten)
+Bestellung 9: Burger zur Abholung bereit um 11:42 (Dauer: 27.53 Minuten)
+Bestellung 27: Start Vorarbeitstheke um 11:42 (Bestellt um 11:42)
+Bestellung 28: Start Vorarbeitstheke um 11:43 (Bestellt um 11:43)
+Bestellung 10: Warme Zutaten fertig an der Vorarbeitstheke um 11:44
+Bestellung 10: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:44
+Bestellung 12: Zuarbeiter*in zugewiesen um 11:44
+Bestellung 10: Burgermeister beginnt mit dem Zusammenbau des Burgers um 11:44
+Bestellung 29: Start Vorarbeitstheke um 11:44 (Bestellt um 11:44)
+Bestellung 12: Zutaten aus Gefrierschrank entnommen nach 0.41 Minuten
+Bestellung 12: Vegetarisch wird in der Fritteuse zubereitet um 11:44
+Bestellung 10: Bun getoastet um 11:44
+Bestellung 10: Burger belegt um 11:44
+Bestellung 10: Fehler bei Zusammenbau, Neustart erforderlich um 11:44
+Bestellung 10: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:44
+Bestellung 30: Start Vorarbeitstheke um 11:46 (Bestellt um 11:46)
+Bestellung 11: Warme Zutaten fertig an der Vorarbeitstheke um 11:47
+Bestellung 11: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:47
+Bestellung 13: Zuarbeiter*in zugewiesen um 11:47
+Bestellung 13: Zutaten aus Gefrierschrank entnommen nach 0.25 Minuten
+Bestellung 13: Geflügel wird in der Fritteuse zubereitet um 11:47
+Bestellung 31: Start Vorarbeitstheke um 11:47 (Bestellt um 11:47)
+Bestellung 32: Start Vorarbeitstheke um 11:48 (Bestellt um 11:48)
+Bestellung 33: Start Vorarbeitstheke um 11:49 (Bestellt um 11:49)
+Bestellung 34: Start Vorarbeitstheke um 11:50 (Bestellt um 11:50)
+Bestellung 35: Start Vorarbeitstheke um 11:50 (Bestellt um 11:50)
+Bestellung 36: Start Vorarbeitstheke um 11:51 (Bestellt um 11:51)
+Bestellung 37: Start Vorarbeitstheke um 11:51 (Bestellt um 11:51)
+Bestellung 12: Warme Zutaten fertig an der Vorarbeitstheke um 11:51
+Bestellung 12: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:51
+Bestellung 14: Zuarbeiter*in zugewiesen um 11:51
+Bestellung 14: Zutaten aus Gefrierschrank entnommen nach 0.31 Minuten
+Bestellung 14: Fleisch-Pattie wird auf dem Grill angebraten um 11:52
+Bestellung 38: Start Vorarbeitstheke um 11:53 (Bestellt um 11:53)
+Bestellung 39: Start Vorarbeitstheke um 11:53 (Bestellt um 11:53)
+Bestellung 14: Fleisch-Pattie zieht im Garschrank durch um 11:54
+Bestellung 40: Start Vorarbeitstheke um 11:54 (Bestellt um 11:54)
+Bestellung 41: Start Vorarbeitstheke um 11:55 (Bestellt um 11:55)
+Bestellung 42: Start Vorarbeitstheke um 11:56 (Bestellt um 11:56)
+Bestellung 13: Warme Zutaten fertig an der Vorarbeitstheke um 11:56
+Bestellung 13: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:56
+Bestellung 15: Zuarbeiter*in zugewiesen um 11:56
+Bestellung 43: Start Vorarbeitstheke um 11:57 (Bestellt um 11:57)
+Bestellung 15: Zutaten aus Gefrierschrank entnommen nach 0.41 Minuten
+Bestellung 15: Geflügel wird in der Fritteuse zubereitet um 11:57
+Bestellung 14: Warme Zutaten fertig an der Vorarbeitstheke um 11:58
+Bestellung 14: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 11:58
+Bestellung 16: Zuarbeiter*in zugewiesen um 11:58
+Bestellung 44: Start Vorarbeitstheke um 11:58 (Bestellt um 11:58)
+Bestellung 16: Zutaten aus Gefrierschrank entnommen nach 0.22 Minuten
+Bestellung 16: Vegetarisch wird in der Fritteuse zubereitet um 11:58
+Bestellung 45: Start Vorarbeitstheke um 11:59 (Bestellt um 11:59)
+Bestellung 46: Start Vorarbeitstheke um 11:59 (Bestellt um 11:59)
+Bestellung 47: Start Vorarbeitstheke um 11:59 (Bestellt um 11:59)
+Bestellung 48: Start Vorarbeitstheke um 12:00 (Bestellt um 12:00)
+Bestellung 49: Start Vorarbeitstheke um 12:00 (Bestellt um 12:00)
+Bestellung 50: Start Vorarbeitstheke um 12:02 (Bestellt um 12:02)
+Bestellung 51: Start Vorarbeitstheke um 12:03 (Bestellt um 12:03)
+Bestellung 16: Warme Zutaten fertig an der Vorarbeitstheke um 12:06
+Bestellung 16: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:06
+Bestellung 17: Zuarbeiter*in zugewiesen um 12:06
+Bestellung 17: Zutaten aus Gefrierschrank entnommen nach 0.42 Minuten
+Bestellung 17: Fleisch-Pattie wird auf dem Grill angebraten um 12:06
+Bestellung 52: Start Vorarbeitstheke um 12:07 (Bestellt um 12:07)
+Bestellung 15: Warme Zutaten fertig an der Vorarbeitstheke um 12:07
+Bestellung 15: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:07
+Bestellung 18: Zuarbeiter*in zugewiesen um 12:07
+Bestellung 18: Zutaten aus Gefrierschrank entnommen nach 0.27 Minuten
+Bestellung 53: Start Vorarbeitstheke um 12:07 (Bestellt um 12:07)
+Bestellung 17: Fleisch-Pattie zieht im Garschrank durch um 12:09
+Bestellung 18: Fleisch-Pattie wird auf dem Grill angebraten um 12:09
+Bestellung 54: Start Vorarbeitstheke um 12:10 (Bestellt um 12:10)
+Bestellung 55: Start Vorarbeitstheke um 12:11 (Bestellt um 12:11)
+Bestellung 17: Warme Zutaten fertig an der Vorarbeitstheke um 12:13
+Bestellung 17: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:13
+Bestellung 18: Fleisch-Pattie zieht im Garschrank durch um 12:13
+Bestellung 19: Zuarbeiter*in zugewiesen um 12:13
+Bestellung 19: Zutaten aus Gefrierschrank entnommen nach 0.30 Minuten
+Bestellung 19: Vegetarisch wird in der Fritteuse zubereitet um 12:13
+Bestellung 56: Start Vorarbeitstheke um 12:13 (Bestellt um 12:13)
+Bestellung 18: Warme Zutaten fertig an der Vorarbeitstheke um 12:16
+Bestellung 18: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:16
+Bestellung 20: Zuarbeiter*in zugewiesen um 12:16
+Bestellung 20: Zutaten aus Gefrierschrank entnommen nach 0.34 Minuten
+Bestellung 20: Fleisch-Pattie wird auf dem Grill angebraten um 12:17
+Bestellung 57: Start Vorarbeitstheke um 12:18 (Bestellt um 12:18)
+Bestellung 20: Fleisch-Pattie zieht im Garschrank durch um 12:19
+Bestellung 58: Start Vorarbeitstheke um 12:19 (Bestellt um 12:19)
+Bestellung 59: Start Vorarbeitstheke um 12:20 (Bestellt um 12:20)
+Bestellung 60: Start Vorarbeitstheke um 12:21 (Bestellt um 12:21)
+Bestellung 61: Start Vorarbeitstheke um 12:22 (Bestellt um 12:22)
+Bestellung 20: Warme Zutaten fertig an der Vorarbeitstheke um 12:22
+Bestellung 20: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:22
+Bestellung 21: Zuarbeiter*in zugewiesen um 12:22
+Bestellung 19: Warme Zutaten fertig an der Vorarbeitstheke um 12:22
+Bestellung 19: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:22
+Bestellung 22: Zuarbeiter*in zugewiesen um 12:22
+Bestellung 21: Zutaten aus Gefrierschrank entnommen nach 0.29 Minuten
+Bestellung 21: Geflügel wird in der Fritteuse zubereitet um 12:23
+Bestellung 62: Start Vorarbeitstheke um 12:23 (Bestellt um 12:23)
+Bestellung 22: Zutaten aus Gefrierschrank entnommen nach 0.35 Minuten
+Bestellung 22: Vegetarisch wird in der Fritteuse zubereitet um 12:23
+Bestellung 63: Start Vorarbeitstheke um 12:23 (Bestellt um 12:23)
+Bestellung 64: Start Vorarbeitstheke um 12:23 (Bestellt um 12:23)
+Bestellung 65: Start Vorarbeitstheke um 12:27 (Bestellt um 12:27)
+Bestellung 66: Start Vorarbeitstheke um 12:28 (Bestellt um 12:28)
+Bestellung 22: Warme Zutaten fertig an der Vorarbeitstheke um 12:29
+Bestellung 22: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:29
+Bestellung 23: Zuarbeiter*in zugewiesen um 12:29
+Bestellung 21: Warme Zutaten fertig an der Vorarbeitstheke um 12:29
+Bestellung 21: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:29
+Bestellung 24: Zuarbeiter*in zugewiesen um 12:29
+Bestellung 67: Start Vorarbeitstheke um 12:29 (Bestellt um 12:29)
+Bestellung 24: Zutaten aus Gefrierschrank entnommen nach 0.24 Minuten
+Bestellung 24: Vegetarisch wird in der Fritteuse zubereitet um 12:30
+Bestellung 23: Zutaten aus Gefrierschrank entnommen nach 0.32 Minuten
+Bestellung 23: Fleisch-Pattie wird auf dem Grill angebraten um 12:30
+Bestellung 68: Start Vorarbeitstheke um 12:32 (Bestellt um 12:32)
+Bestellung 23: Fleisch-Pattie zieht im Garschrank durch um 12:33
+Bestellung 69: Start Vorarbeitstheke um 12:33 (Bestellt um 12:33)
+Bestellung 70: Start Vorarbeitstheke um 12:35 (Bestellt um 12:35)
+Bestellung 23: Warme Zutaten fertig an der Vorarbeitstheke um 12:36
+Bestellung 23: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:36
+Bestellung 25: Zuarbeiter*in zugewiesen um 12:36
+Bestellung 24: Warme Zutaten fertig an der Vorarbeitstheke um 12:36
+Bestellung 24: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:36
+Bestellung 26: Zuarbeiter*in zugewiesen um 12:36
+Bestellung 25: Zutaten aus Gefrierschrank entnommen nach 0.24 Minuten
+Bestellung 25: Vegetarisch wird in der Fritteuse zubereitet um 12:36
+Bestellung 26: Zutaten aus Gefrierschrank entnommen nach 0.64 Minuten
+Bestellung 26: Geflügel wird in der Fritteuse zubereitet um 12:37
+Bestellung 71: Start Vorarbeitstheke um 12:37 (Bestellt um 12:37)
+Bestellung 72: Start Vorarbeitstheke um 12:38 (Bestellt um 12:38)
+Bestellung 73: Start Vorarbeitstheke um 12:38 (Bestellt um 12:38)
+Bestellung 74: Start Vorarbeitstheke um 12:38 (Bestellt um 12:38)
+Bestellung 75: Start Vorarbeitstheke um 12:39 (Bestellt um 12:39)
+Bestellung 76: Start Vorarbeitstheke um 12:40 (Bestellt um 12:40)
+Bestellung 77: Start Vorarbeitstheke um 12:41 (Bestellt um 12:41)
+Bestellung 78: Start Vorarbeitstheke um 12:42 (Bestellt um 12:42)
+Bestellung 26: Warme Zutaten fertig an der Vorarbeitstheke um 12:43
+Bestellung 26: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:43
+Bestellung 27: Zuarbeiter*in zugewiesen um 12:43
+Bestellung 27: Zutaten aus Gefrierschrank entnommen nach 0.40 Minuten
+Bestellung 27: Geflügel wird in der Fritteuse zubereitet um 12:44
+Bestellung 25: Warme Zutaten fertig an der Vorarbeitstheke um 12:45
+Bestellung 25: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:45
+Bestellung 28: Zuarbeiter*in zugewiesen um 12:45
+Bestellung 79: Start Vorarbeitstheke um 12:45 (Bestellt um 12:45)
+Bestellung 28: Zutaten aus Gefrierschrank entnommen nach 0.31 Minuten
+Bestellung 28: Fleisch-Pattie wird auf dem Grill angebraten um 12:46
+Bestellung 80: Start Vorarbeitstheke um 12:46 (Bestellt um 12:46)
+Bestellung 81: Start Vorarbeitstheke um 12:47 (Bestellt um 12:47)
+Bestellung 82: Start Vorarbeitstheke um 12:48 (Bestellt um 12:48)
+Bestellung 83: Start Vorarbeitstheke um 12:48 (Bestellt um 12:48)
+Bestellung 28: Fleisch-Pattie zieht im Garschrank durch um 12:48
+Bestellung 84: Start Vorarbeitstheke um 12:49 (Bestellt um 12:49)
+Bestellung 27: Warme Zutaten fertig an der Vorarbeitstheke um 12:50
+Bestellung 27: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:50
+Bestellung 29: Zuarbeiter*in zugewiesen um 12:50
+Bestellung 29: Zutaten aus Gefrierschrank entnommen nach 0.57 Minuten
+Bestellung 29: Vegetarisch wird in der Fritteuse zubereitet um 12:50
+Bestellung 85: Start Vorarbeitstheke um 12:50 (Bestellt um 12:50)
+Bestellung 86: Start Vorarbeitstheke um 12:51 (Bestellt um 12:51)
+Bestellung 28: Warme Zutaten fertig an der Vorarbeitstheke um 12:52
+Bestellung 28: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:52
+Bestellung 30: Zuarbeiter*in zugewiesen um 12:52
+Bestellung 30: Zutaten aus Gefrierschrank entnommen nach 0.35 Minuten
+Bestellung 30: Fleisch-Pattie wird auf dem Grill angebraten um 12:52
+Bestellung 87: Start Vorarbeitstheke um 12:52 (Bestellt um 12:52)
+Bestellung 88: Start Vorarbeitstheke um 12:52 (Bestellt um 12:52)
+Bestellung 89: Start Vorarbeitstheke um 12:53 (Bestellt um 12:53)
+Bestellung 30: Fleisch-Pattie zieht im Garschrank durch um 12:55
+Bestellung 90: Start Vorarbeitstheke um 12:55 (Bestellt um 12:55)
+Bestellung 91: Start Vorarbeitstheke um 12:55 (Bestellt um 12:55)
+Bestellung 30: Warme Zutaten fertig an der Vorarbeitstheke um 12:59
+Bestellung 30: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 12:59
+Bestellung 31: Zuarbeiter*in zugewiesen um 12:59
+Bestellung 92: Start Vorarbeitstheke um 12:59 (Bestellt um 12:59)
+Bestellung 31: Zutaten aus Gefrierschrank entnommen nach 0.26 Minuten
+Bestellung 31: Geflügel wird in der Fritteuse zubereitet um 12:59
+Bestellung 29: Warme Zutaten fertig an der Vorarbeitstheke um 13:00
+Bestellung 29: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:00
+Bestellung 32: Zuarbeiter*in zugewiesen um 13:00
+Bestellung 32: Zutaten aus Gefrierschrank entnommen nach 0.28 Minuten
+Bestellung 32: Geflügel wird in der Fritteuse zubereitet um 13:00
+Bestellung 93: Start Vorarbeitstheke um 13:01 (Bestellt um 13:01)
+Bestellung 94: Start Vorarbeitstheke um 13:03 (Bestellt um 13:03)
+Bestellung 95: Start Vorarbeitstheke um 13:04 (Bestellt um 13:04)
+Bestellung 96: Start Vorarbeitstheke um 13:05 (Bestellt um 13:05)
+Bestellung 97: Start Vorarbeitstheke um 13:05 (Bestellt um 13:05)
+Bestellung 98: Start Vorarbeitstheke um 13:05 (Bestellt um 13:05)
+Bestellung 31: Warme Zutaten fertig an der Vorarbeitstheke um 13:05
+Bestellung 31: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:05
+Bestellung 33: Zuarbeiter*in zugewiesen um 13:05
+Bestellung 33: Zutaten aus Gefrierschrank entnommen nach 0.35 Minuten
+Bestellung 33: Fleisch-Pattie wird auf dem Grill angebraten um 13:06
+Bestellung 99: Start Vorarbeitstheke um 13:06 (Bestellt um 13:06)
+Bestellung 32: Warme Zutaten fertig an der Vorarbeitstheke um 13:07
+Bestellung 32: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:07
+Bestellung 34: Zuarbeiter*in zugewiesen um 13:07
+Bestellung 100: Start Vorarbeitstheke um 13:07 (Bestellt um 13:07)
+Bestellung 34: Zutaten aus Gefrierschrank entnommen nach 0.21 Minuten
+Bestellung 101: Start Vorarbeitstheke um 13:08 (Bestellt um 13:08)
+Bestellung 33: Fleisch-Pattie zieht im Garschrank durch um 13:08
+Bestellung 34: Fleisch-Pattie wird auf dem Grill angebraten um 13:08
+Bestellung 102: Start Vorarbeitstheke um 13:09 (Bestellt um 13:09)
+Bestellung 103: Start Vorarbeitstheke um 13:11 (Bestellt um 13:11)
+Bestellung 33: Warme Zutaten fertig an der Vorarbeitstheke um 13:11
+Bestellung 33: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:11
+Bestellung 34: Fleisch-Pattie zieht im Garschrank durch um 13:11
+Bestellung 35: Zuarbeiter*in zugewiesen um 13:11
+Bestellung 35: Zutaten aus Gefrierschrank entnommen nach 0.21 Minuten
+Bestellung 35: Vegetarisch wird in der Fritteuse zubereitet um 13:11
+Bestellung 104: Start Vorarbeitstheke um 13:12 (Bestellt um 13:12)
+Bestellung 34: Warme Zutaten fertig an der Vorarbeitstheke um 13:14
+Bestellung 34: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:14
+Bestellung 36: Zuarbeiter*in zugewiesen um 13:14
+Bestellung 105: Start Vorarbeitstheke um 13:14 (Bestellt um 13:14)
+Bestellung 36: Zutaten aus Gefrierschrank entnommen nach 0.39 Minuten
+Bestellung 36: Fleisch-Pattie wird auf dem Grill angebraten um 13:15
+Bestellung 106: Start Vorarbeitstheke um 13:15 (Bestellt um 13:15)
+Bestellung 36: Fleisch-Pattie zieht im Garschrank durch um 13:17
+Bestellung 107: Start Vorarbeitstheke um 13:17 (Bestellt um 13:17)
+Bestellung 108: Start Vorarbeitstheke um 13:18 (Bestellt um 13:18)
+Bestellung 109: Start Vorarbeitstheke um 13:18 (Bestellt um 13:18)
+Bestellung 35: Warme Zutaten fertig an der Vorarbeitstheke um 13:19
+Bestellung 35: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:19
+Bestellung 37: Zuarbeiter*in zugewiesen um 13:19
+Bestellung 37: Zutaten aus Gefrierschrank entnommen nach 0.38 Minuten
+Bestellung 37: Geflügel wird in der Fritteuse zubereitet um 13:19
+Bestellung 36: Warme Zutaten fertig an der Vorarbeitstheke um 13:20
+Bestellung 36: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:20
+Bestellung 38: Zuarbeiter*in zugewiesen um 13:20
+Bestellung 38: Zutaten aus Gefrierschrank entnommen nach 0.31 Minuten
+Bestellung 38: Fleisch-Pattie wird auf dem Grill angebraten um 13:20
+Bestellung 110: Start Vorarbeitstheke um 13:21 (Bestellt um 13:21)
+Bestellung 111: Start Vorarbeitstheke um 13:22 (Bestellt um 13:22)
+Bestellung 38: Fleisch-Pattie zieht im Garschrank durch um 13:23
+Bestellung 112: Start Vorarbeitstheke um 13:24 (Bestellt um 13:24)
+Bestellung 37: Warme Zutaten fertig an der Vorarbeitstheke um 13:26
+Bestellung 37: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:26
+Bestellung 39: Zuarbeiter*in zugewiesen um 13:26
+Bestellung 113: Start Vorarbeitstheke um 13:27 (Bestellt um 13:27)
+Bestellung 39: Zutaten aus Gefrierschrank entnommen nach 0.41 Minuten
+Bestellung 39: Fleisch-Pattie wird auf dem Grill angebraten um 13:27
+Bestellung 38: Warme Zutaten fertig an der Vorarbeitstheke um 13:28
+Bestellung 38: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:28
+Bestellung 40: Zuarbeiter*in zugewiesen um 13:28
+Bestellung 40: Zutaten aus Gefrierschrank entnommen nach 0.29 Minuten
+Bestellung 40: Vegetarisch wird in der Fritteuse zubereitet um 13:28
+Bestellung 114: Start Vorarbeitstheke um 13:28 (Bestellt um 13:28)
+Bestellung 39: Fleisch-Pattie zieht im Garschrank durch um 13:29
+Bestellung 115: Start Vorarbeitstheke um 13:32 (Bestellt um 13:32)
+Bestellung 39: Warme Zutaten fertig an der Vorarbeitstheke um 13:33
+Bestellung 39: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:33
+Bestellung 41: Zuarbeiter*in zugewiesen um 13:33
+Bestellung 41: Zutaten aus Gefrierschrank entnommen nach 0.43 Minuten
+Bestellung 41: Vegetarisch wird in der Fritteuse zubereitet um 13:33
+Bestellung 116: Start Vorarbeitstheke um 13:34 (Bestellt um 13:34)
+Bestellung 117: Start Vorarbeitstheke um 13:35 (Bestellt um 13:35)
+Bestellung 118: Start Vorarbeitstheke um 13:37 (Bestellt um 13:37)
+Bestellung 119: Start Vorarbeitstheke um 13:37 (Bestellt um 13:37)
+Bestellung 40: Warme Zutaten fertig an der Vorarbeitstheke um 13:38
+Bestellung 40: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:38
+Bestellung 42: Zuarbeiter*in zugewiesen um 13:38
+Bestellung 42: Zutaten aus Gefrierschrank entnommen nach 0.19 Minuten
+Bestellung 42: Vegetarisch wird in der Fritteuse zubereitet um 13:38
+Bestellung 120: Start Vorarbeitstheke um 13:40 (Bestellt um 13:40)
+Bestellung 41: Warme Zutaten fertig an der Vorarbeitstheke um 13:41
+Bestellung 41: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:41
+Bestellung 43: Zuarbeiter*in zugewiesen um 13:41
+Bestellung 121: Start Vorarbeitstheke um 13:41 (Bestellt um 13:41)
+Bestellung 122: Start Vorarbeitstheke um 13:41 (Bestellt um 13:41)
+Bestellung 43: Zutaten aus Gefrierschrank entnommen nach 0.26 Minuten
+Bestellung 43: Vegetarisch wird in der Fritteuse zubereitet um 13:42
+Bestellung 123: Start Vorarbeitstheke um 13:42 (Bestellt um 13:42)
+Bestellung 124: Start Vorarbeitstheke um 13:45 (Bestellt um 13:45)
+Bestellung 125: Start Vorarbeitstheke um 13:47 (Bestellt um 13:47)
+Bestellung 126: Start Vorarbeitstheke um 13:47 (Bestellt um 13:47)
+Bestellung 42: Warme Zutaten fertig an der Vorarbeitstheke um 13:47
+Bestellung 42: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:47
+Bestellung 44: Zuarbeiter*in zugewiesen um 13:47
+Bestellung 44: Zutaten aus Gefrierschrank entnommen nach 0.59 Minuten
+Bestellung 44: Geflügel wird in der Fritteuse zubereitet um 13:47
+Bestellung 127: Start Vorarbeitstheke um 13:48 (Bestellt um 13:48)
+Bestellung 128: Start Vorarbeitstheke um 13:48 (Bestellt um 13:48)
+Bestellung 129: Start Vorarbeitstheke um 13:49 (Bestellt um 13:49)
+Bestellung 43: Warme Zutaten fertig an der Vorarbeitstheke um 13:51
+Bestellung 43: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:51
+Bestellung 45: Zuarbeiter*in zugewiesen um 13:51
+Bestellung 45: Zutaten aus Gefrierschrank entnommen nach 0.35 Minuten
+Bestellung 45: Vegetarisch wird in der Fritteuse zubereitet um 13:51
+Bestellung 130: Start Vorarbeitstheke um 13:51 (Bestellt um 13:51)
+Bestellung 131: Start Vorarbeitstheke um 13:52 (Bestellt um 13:52)
+Bestellung 132: Start Vorarbeitstheke um 13:54 (Bestellt um 13:54)
+Bestellung 133: Start Vorarbeitstheke um 13:54 (Bestellt um 13:54)
+Bestellung 134: Start Vorarbeitstheke um 13:55 (Bestellt um 13:55)
+Bestellung 135: Start Vorarbeitstheke um 13:55 (Bestellt um 13:55)
+Bestellung 136: Start Vorarbeitstheke um 13:56 (Bestellt um 13:56)
+Bestellung 44: Warme Zutaten fertig an der Vorarbeitstheke um 13:56
+Bestellung 44: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 13:56
+Bestellung 46: Zuarbeiter*in zugewiesen um 13:56
+Bestellung 46: Zutaten aus Gefrierschrank entnommen nach 0.24 Minuten
+Bestellung 46: Geflügel wird in der Fritteuse zubereitet um 13:56
+Bestellung 137: Start Vorarbeitstheke um 13:57 (Bestellt um 13:57)
+Bestellung 138: Start Vorarbeitstheke um 13:58 (Bestellt um 13:58)
+Bestellung 45: Warme Zutaten fertig an der Vorarbeitstheke um 14:00
+Bestellung 45: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:00
+Bestellung 47: Zuarbeiter*in zugewiesen um 14:00
+Bestellung 47: Zutaten aus Gefrierschrank entnommen nach 0.45 Minuten
+Bestellung 47: Vegetarisch wird in der Fritteuse zubereitet um 14:00
+Bestellung 46: Warme Zutaten fertig an der Vorarbeitstheke um 14:03
+Bestellung 46: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:03
+Bestellung 48: Zuarbeiter*in zugewiesen um 14:03
+Bestellung 48: Zutaten aus Gefrierschrank entnommen nach 0.31 Minuten
+Bestellung 48: Geflügel wird in der Fritteuse zubereitet um 14:04
+Bestellung 47: Warme Zutaten fertig an der Vorarbeitstheke um 14:08
+Bestellung 47: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:08
+Bestellung 49: Zuarbeiter*in zugewiesen um 14:08
+Bestellung 49: Zutaten aus Gefrierschrank entnommen nach 0.36 Minuten
+Bestellung 49: Geflügel wird in der Fritteuse zubereitet um 14:08
+Bestellung 48: Warme Zutaten fertig an der Vorarbeitstheke um 14:13
+Bestellung 48: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:13
+Bestellung 50: Zuarbeiter*in zugewiesen um 14:13
+Bestellung 50: Zutaten aus Gefrierschrank entnommen nach 0.33 Minuten
+Bestellung 50: Vegetarisch wird in der Fritteuse zubereitet um 14:14
+Bestellung 49: Warme Zutaten fertig an der Vorarbeitstheke um 14:15
+Bestellung 49: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:15
+Bestellung 51: Zuarbeiter*in zugewiesen um 14:15
+Bestellung 51: Zutaten aus Gefrierschrank entnommen nach 0.60 Minuten
+Bestellung 51: Fleisch-Pattie wird auf dem Grill angebraten um 14:15
+Bestellung 51: Fleisch-Pattie zieht im Garschrank durch um 14:18
+Bestellung 50: Warme Zutaten fertig an der Vorarbeitstheke um 14:22
+Bestellung 50: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:22
+Bestellung 52: Zuarbeiter*in zugewiesen um 14:22
+Bestellung 52: Zutaten aus Gefrierschrank entnommen nach 0.36 Minuten
+Bestellung 52: Geflügel wird in der Fritteuse zubereitet um 14:22
+Bestellung 51: Warme Zutaten fertig an der Vorarbeitstheke um 14:22
+Bestellung 51: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:22
+Bestellung 53: Zuarbeiter*in zugewiesen um 14:22
+Bestellung 53: Zutaten aus Gefrierschrank entnommen nach 0.23 Minuten
+Bestellung 53: Fleisch-Pattie wird auf dem Grill angebraten um 14:23
+Bestellung 53: Fleisch-Pattie zieht im Garschrank durch um 14:25
+Bestellung 53: Warme Zutaten fertig an der Vorarbeitstheke um 14:29
+Bestellung 53: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:29
+Bestellung 54: Zuarbeiter*in zugewiesen um 14:29
+Bestellung 54: Zutaten aus Gefrierschrank entnommen nach 0.48 Minuten
+Bestellung 54: Fleisch-Pattie wird auf dem Grill angebraten um 14:30
+Bestellung 52: Warme Zutaten fertig an der Vorarbeitstheke um 14:30
+Bestellung 52: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:30
+Bestellung 55: Zuarbeiter*in zugewiesen um 14:30
+Bestellung 55: Zutaten aus Gefrierschrank entnommen nach 0.39 Minuten
+Bestellung 54: Fleisch-Pattie zieht im Garschrank durch um 14:32
+Bestellung 55: Fleisch-Pattie wird auf dem Grill angebraten um 14:32
+Bestellung 54: Warme Zutaten fertig an der Vorarbeitstheke um 14:37
+Bestellung 54: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:37
+Bestellung 55: Fleisch-Pattie zieht im Garschrank durch um 14:37
+Bestellung 56: Zuarbeiter*in zugewiesen um 14:37
+Bestellung 56: Zutaten aus Gefrierschrank entnommen nach 0.39 Minuten
+Bestellung 56: Vegetarisch wird in der Fritteuse zubereitet um 14:37
+Bestellung 55: Warme Zutaten fertig an der Vorarbeitstheke um 14:42
+Bestellung 55: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:42
+Bestellung 57: Zuarbeiter*in zugewiesen um 14:42
+Bestellung 57: Zutaten aus Gefrierschrank entnommen nach 0.16 Minuten
+Bestellung 57: Vegetarisch wird in der Fritteuse zubereitet um 14:42
+Bestellung 56: Warme Zutaten fertig an der Vorarbeitstheke um 14:44
+Bestellung 56: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:44
+Bestellung 58: Zuarbeiter*in zugewiesen um 14:44
+Bestellung 58: Zutaten aus Gefrierschrank entnommen nach 0.21 Minuten
+Bestellung 58: Geflügel wird in der Fritteuse zubereitet um 14:44
+Bestellung 57: Warme Zutaten fertig an der Vorarbeitstheke um 14:49
+Bestellung 57: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:49
+Bestellung 59: Zuarbeiter*in zugewiesen um 14:49
+Bestellung 59: Zutaten aus Gefrierschrank entnommen nach 0.24 Minuten
+Bestellung 59: Geflügel wird in der Fritteuse zubereitet um 14:49
+Bestellung 58: Warme Zutaten fertig an der Vorarbeitstheke um 14:54
+Bestellung 58: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:54
+Bestellung 60: Zuarbeiter*in zugewiesen um 14:54
+Bestellung 60: Zutaten aus Gefrierschrank entnommen nach 0.18 Minuten
+Bestellung 60: Vegetarisch wird in der Fritteuse zubereitet um 14:54
+Bestellung 59: Warme Zutaten fertig an der Vorarbeitstheke um 14:57
+Bestellung 59: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 14:57
+Bestellung 61: Zuarbeiter*in zugewiesen um 14:57
+Bestellung 61: Zutaten aus Gefrierschrank entnommen nach 0.38 Minuten
+Bestellung 61: Geflügel wird in der Fritteuse zubereitet um 14:57
+Bestellung 60: Warme Zutaten fertig an der Vorarbeitstheke um 15:04
+Bestellung 60: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:04
+Bestellung 62: Zuarbeiter*in zugewiesen um 15:04
+Bestellung 62: Zutaten aus Gefrierschrank entnommen nach 0.32 Minuten
+Bestellung 62: Geflügel wird in der Fritteuse zubereitet um 15:04
+Bestellung 61: Warme Zutaten fertig an der Vorarbeitstheke um 15:06
+Bestellung 61: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:06
+Bestellung 63: Zuarbeiter*in zugewiesen um 15:06
+Bestellung 63: Zutaten aus Gefrierschrank entnommen nach 0.22 Minuten
+Bestellung 63: Geflügel wird in der Fritteuse zubereitet um 15:06
+Bestellung 62: Warme Zutaten fertig an der Vorarbeitstheke um 15:11
+Bestellung 62: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:11
+Bestellung 64: Zuarbeiter*in zugewiesen um 15:11
+Bestellung 64: Zutaten aus Gefrierschrank entnommen nach 0.52 Minuten
+Bestellung 64: Vegetarisch wird in der Fritteuse zubereitet um 15:11
+Bestellung 63: Warme Zutaten fertig an der Vorarbeitstheke um 15:14
+Bestellung 63: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:14
+Bestellung 65: Zuarbeiter*in zugewiesen um 15:14
+Bestellung 65: Zutaten aus Gefrierschrank entnommen nach 0.32 Minuten
+Bestellung 65: Vegetarisch wird in der Fritteuse zubereitet um 15:14
+Bestellung 64: Warme Zutaten fertig an der Vorarbeitstheke um 15:18
+Bestellung 64: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:18
+Bestellung 66: Zuarbeiter*in zugewiesen um 15:18
+Bestellung 66: Zutaten aus Gefrierschrank entnommen nach 0.31 Minuten
+Bestellung 66: Vegetarisch wird in der Fritteuse zubereitet um 15:18
+Bestellung 65: Warme Zutaten fertig an der Vorarbeitstheke um 15:24
+Bestellung 65: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:24
+Bestellung 67: Zuarbeiter*in zugewiesen um 15:24
+Bestellung 67: Zutaten aus Gefrierschrank entnommen nach 0.38 Minuten
+Bestellung 67: Vegetarisch wird in der Fritteuse zubereitet um 15:24
+Bestellung 66: Warme Zutaten fertig an der Vorarbeitstheke um 15:26
+Bestellung 66: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:26
+Bestellung 68: Zuarbeiter*in zugewiesen um 15:26
+Bestellung 68: Zutaten aus Gefrierschrank entnommen nach 0.34 Minuten
+Bestellung 68: Fleisch-Pattie wird auf dem Grill angebraten um 15:26
+Bestellung 68: Fleisch-Pattie zieht im Garschrank durch um 15:29
+Bestellung 67: Warme Zutaten fertig an der Vorarbeitstheke um 15:32
+Bestellung 67: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:32
+Bestellung 69: Zuarbeiter*in zugewiesen um 15:32
+Bestellung 69: Zutaten aus Gefrierschrank entnommen nach 0.27 Minuten
+Bestellung 69: Fleisch-Pattie wird auf dem Grill angebraten um 15:32
+Bestellung 68: Warme Zutaten fertig an der Vorarbeitstheke um 15:32
+Bestellung 68: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:32
+Bestellung 70: Zuarbeiter*in zugewiesen um 15:32
+Bestellung 70: Zutaten aus Gefrierschrank entnommen nach 0.18 Minuten
+Bestellung 70: Vegetarisch wird in der Fritteuse zubereitet um 15:33
+Bestellung 69: Fleisch-Pattie zieht im Garschrank durch um 15:34
+Bestellung 69: Warme Zutaten fertig an der Vorarbeitstheke um 15:38
+Bestellung 69: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:38
+Bestellung 71: Zuarbeiter*in zugewiesen um 15:38
+Bestellung 71: Zutaten aus Gefrierschrank entnommen nach 0.36 Minuten
+Bestellung 71: Vegetarisch wird in der Fritteuse zubereitet um 15:38
+Bestellung 70: Warme Zutaten fertig an der Vorarbeitstheke um 15:40
+Bestellung 70: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:40
+Bestellung 72: Zuarbeiter*in zugewiesen um 15:40
+Bestellung 72: Zutaten aus Gefrierschrank entnommen nach 0.29 Minuten
+Bestellung 72: Fleisch-Pattie wird auf dem Grill angebraten um 15:41
+Bestellung 72: Fleisch-Pattie zieht im Garschrank durch um 15:43
+Bestellung 71: Warme Zutaten fertig an der Vorarbeitstheke um 15:47
+Bestellung 71: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:47
+Bestellung 73: Zuarbeiter*in zugewiesen um 15:47
+Bestellung 72: Warme Zutaten fertig an der Vorarbeitstheke um 15:47
+Bestellung 72: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:47
+Bestellung 74: Zuarbeiter*in zugewiesen um 15:47
+Bestellung 73: Zutaten aus Gefrierschrank entnommen nach 0.38 Minuten
+Bestellung 73: Geflügel wird in der Fritteuse zubereitet um 15:48
+Bestellung 74: Zutaten aus Gefrierschrank entnommen nach 0.32 Minuten
+Bestellung 74: Vegetarisch wird in der Fritteuse zubereitet um 15:48
+Bestellung 74: Warme Zutaten fertig an der Vorarbeitstheke um 15:55
+Bestellung 74: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:55
+Bestellung 75: Zuarbeiter*in zugewiesen um 15:55
+Bestellung 75: Zutaten aus Gefrierschrank entnommen nach 0.23 Minuten
+Bestellung 75: Vegetarisch wird in der Fritteuse zubereitet um 15:55
+Bestellung 73: Warme Zutaten fertig an der Vorarbeitstheke um 15:56
+Bestellung 73: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 15:56
+Bestellung 76: Zuarbeiter*in zugewiesen um 15:56
+Bestellung 76: Zutaten aus Gefrierschrank entnommen nach 0.31 Minuten
+Bestellung 76: Fleisch-Pattie wird auf dem Grill angebraten um 15:57
+Bestellung 76: Fleisch-Pattie zieht im Garschrank durch um 16:00
+Bestellung 75: Warme Zutaten fertig an der Vorarbeitstheke um 16:01
+Bestellung 75: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:01
+Bestellung 77: Zuarbeiter*in zugewiesen um 16:01
+Bestellung 77: Zutaten aus Gefrierschrank entnommen nach 0.31 Minuten
+Bestellung 77: Geflügel wird in der Fritteuse zubereitet um 16:01
+Bestellung 76: Warme Zutaten fertig an der Vorarbeitstheke um 16:03
+Bestellung 76: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:03
+Bestellung 78: Zuarbeiter*in zugewiesen um 16:03
+Bestellung 78: Zutaten aus Gefrierschrank entnommen nach 0.47 Minuten
+Bestellung 78: Vegetarisch wird in der Fritteuse zubereitet um 16:03
+Bestellung 78: Warme Zutaten fertig an der Vorarbeitstheke um 16:10
+Bestellung 78: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:10
+Bestellung 79: Zuarbeiter*in zugewiesen um 16:10
+Bestellung 79: Zutaten aus Gefrierschrank entnommen nach 0.27 Minuten
+Bestellung 79: Vegetarisch wird in der Fritteuse zubereitet um 16:10
+Bestellung 77: Warme Zutaten fertig an der Vorarbeitstheke um 16:10
+Bestellung 77: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:10
+Bestellung 80: Zuarbeiter*in zugewiesen um 16:10
+Bestellung 80: Zutaten aus Gefrierschrank entnommen nach 0.26 Minuten
+Bestellung 80: Vegetarisch wird in der Fritteuse zubereitet um 16:11
+Bestellung 79: Warme Zutaten fertig an der Vorarbeitstheke um 16:19
+Bestellung 79: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:19
+Bestellung 81: Zuarbeiter*in zugewiesen um 16:19
+Bestellung 81: Zutaten aus Gefrierschrank entnommen nach 0.43 Minuten
+Bestellung 81: Geflügel wird in der Fritteuse zubereitet um 16:20
+Bestellung 80: Warme Zutaten fertig an der Vorarbeitstheke um 16:20
+Bestellung 80: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:20
+Bestellung 82: Zuarbeiter*in zugewiesen um 16:20
+Bestellung 82: Zutaten aus Gefrierschrank entnommen nach 0.19 Minuten
+Bestellung 82: Fleisch-Pattie wird auf dem Grill angebraten um 16:20
+Bestellung 82: Fleisch-Pattie zieht im Garschrank durch um 16:23
+Bestellung 82: Warme Zutaten fertig an der Vorarbeitstheke um 16:26
+Bestellung 82: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:26
+Bestellung 83: Zuarbeiter*in zugewiesen um 16:26
+Bestellung 83: Zutaten aus Gefrierschrank entnommen nach 0.42 Minuten
+Bestellung 83: Vegetarisch wird in der Fritteuse zubereitet um 16:27
+Bestellung 81: Warme Zutaten fertig an der Vorarbeitstheke um 16:27
+Bestellung 81: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:27
+Bestellung 84: Zuarbeiter*in zugewiesen um 16:27
+Bestellung 84: Zutaten aus Gefrierschrank entnommen nach 0.58 Minuten
+Bestellung 84: Vegetarisch wird in der Fritteuse zubereitet um 16:28
+Bestellung 83: Warme Zutaten fertig an der Vorarbeitstheke um 16:37
+Bestellung 83: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:37
+Bestellung 85: Zuarbeiter*in zugewiesen um 16:37
+Bestellung 84: Warme Zutaten fertig an der Vorarbeitstheke um 16:37
+Bestellung 84: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:37
+Bestellung 86: Zuarbeiter*in zugewiesen um 16:37
+Bestellung 85: Zutaten aus Gefrierschrank entnommen nach 0.50 Minuten
+Bestellung 85: Geflügel wird in der Fritteuse zubereitet um 16:37
+Bestellung 86: Zutaten aus Gefrierschrank entnommen nach 0.56 Minuten
+Bestellung 86: Vegetarisch wird in der Fritteuse zubereitet um 16:37
+Bestellung 86: Warme Zutaten fertig an der Vorarbeitstheke um 16:44
+Bestellung 86: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:44
+Bestellung 87: Zuarbeiter*in zugewiesen um 16:44
+Bestellung 87: Zutaten aus Gefrierschrank entnommen nach 0.34 Minuten
+Bestellung 87: Geflügel wird in der Fritteuse zubereitet um 16:45
+Bestellung 85: Warme Zutaten fertig an der Vorarbeitstheke um 16:45
+Bestellung 85: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:45
+Bestellung 88: Zuarbeiter*in zugewiesen um 16:45
+Bestellung 88: Zutaten aus Gefrierschrank entnommen nach 0.32 Minuten
+Bestellung 88: Vegetarisch wird in der Fritteuse zubereitet um 16:45
+Bestellung 87: Warme Zutaten fertig an der Vorarbeitstheke um 16:54
+Bestellung 87: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:54
+Bestellung 89: Zuarbeiter*in zugewiesen um 16:54
+Bestellung 89: Zutaten aus Gefrierschrank entnommen nach 0.36 Minuten
+Bestellung 89: Geflügel wird in der Fritteuse zubereitet um 16:54
+Bestellung 88: Warme Zutaten fertig an der Vorarbeitstheke um 16:54
+Bestellung 88: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 16:54
+Bestellung 90: Zuarbeiter*in zugewiesen um 16:54
+Bestellung 90: Zutaten aus Gefrierschrank entnommen nach 0.30 Minuten
+Bestellung 90: Fleisch-Pattie wird auf dem Grill angebraten um 16:54
+Bestellung 90: Fleisch-Pattie zieht im Garschrank durch um 16:56
+Bestellung 90: Warme Zutaten fertig an der Vorarbeitstheke um 17:00
+Bestellung 90: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:00
+Bestellung 91: Zuarbeiter*in zugewiesen um 17:00
+Bestellung 91: Zutaten aus Gefrierschrank entnommen nach 0.41 Minuten
+Bestellung 91: Geflügel wird in der Fritteuse zubereitet um 17:00
+Bestellung 89: Warme Zutaten fertig an der Vorarbeitstheke um 17:03
+Bestellung 89: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:03
+Bestellung 92: Zuarbeiter*in zugewiesen um 17:03
+Bestellung 92: Zutaten aus Gefrierschrank entnommen nach 0.23 Minuten
+Bestellung 92: Geflügel wird in der Fritteuse zubereitet um 17:04
+Bestellung 91: Warme Zutaten fertig an der Vorarbeitstheke um 17:08
+Bestellung 91: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:08
+Bestellung 93: Zuarbeiter*in zugewiesen um 17:08
+Bestellung 93: Zutaten aus Gefrierschrank entnommen nach 0.47 Minuten
+Bestellung 93: Geflügel wird in der Fritteuse zubereitet um 17:08
+Bestellung 92: Warme Zutaten fertig an der Vorarbeitstheke um 17:12
+Bestellung 92: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:12
+Bestellung 94: Zuarbeiter*in zugewiesen um 17:12
+Bestellung 94: Zutaten aus Gefrierschrank entnommen nach 0.39 Minuten
+Bestellung 94: Geflügel wird in der Fritteuse zubereitet um 17:12
+Bestellung 93: Warme Zutaten fertig an der Vorarbeitstheke um 17:16
+Bestellung 93: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:16
+Bestellung 95: Zuarbeiter*in zugewiesen um 17:16
+Bestellung 95: Zutaten aus Gefrierschrank entnommen nach 0.44 Minuten
+Bestellung 95: Vegetarisch wird in der Fritteuse zubereitet um 17:16
+Bestellung 94: Warme Zutaten fertig an der Vorarbeitstheke um 17:22
+Bestellung 94: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:22
+Bestellung 96: Zuarbeiter*in zugewiesen um 17:22
+Bestellung 96: Zutaten aus Gefrierschrank entnommen nach 0.30 Minuten
+Bestellung 96: Vegetarisch wird in der Fritteuse zubereitet um 17:22
+Bestellung 95: Warme Zutaten fertig an der Vorarbeitstheke um 17:26
+Bestellung 95: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:26
+Bestellung 97: Zuarbeiter*in zugewiesen um 17:26
+Bestellung 97: Zutaten aus Gefrierschrank entnommen nach 0.19 Minuten
+Bestellung 97: Vegetarisch wird in der Fritteuse zubereitet um 17:26
+Bestellung 96: Warme Zutaten fertig an der Vorarbeitstheke um 17:31
+Bestellung 96: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:31
+Bestellung 98: Zuarbeiter*in zugewiesen um 17:31
+Bestellung 98: Zutaten aus Gefrierschrank entnommen nach 0.17 Minuten
+Bestellung 98: Geflügel wird in der Fritteuse zubereitet um 17:31
+Bestellung 97: Warme Zutaten fertig an der Vorarbeitstheke um 17:36
+Bestellung 97: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:36
+Bestellung 99: Zuarbeiter*in zugewiesen um 17:36
+Bestellung 99: Zutaten aus Gefrierschrank entnommen nach 0.49 Minuten
+Bestellung 99: Fleisch-Pattie wird auf dem Grill angebraten um 17:36
+Bestellung 99: Fleisch-Pattie zieht im Garschrank durch um 17:38
+Bestellung 98: Warme Zutaten fertig an der Vorarbeitstheke um 17:39
+Bestellung 98: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:39
+Bestellung 100: Zuarbeiter*in zugewiesen um 17:39
+Bestellung 100: Zutaten aus Gefrierschrank entnommen nach 0.39 Minuten
+Bestellung 100: Fleisch-Pattie wird auf dem Grill angebraten um 17:40
+Bestellung 99: Warme Zutaten fertig an der Vorarbeitstheke um 17:42
+Bestellung 99: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:42
+Bestellung 101: Zuarbeiter*in zugewiesen um 17:42
+Bestellung 101: Zutaten aus Gefrierschrank entnommen nach 0.24 Minuten
+Bestellung 100: Fleisch-Pattie zieht im Garschrank durch um 17:42
+Bestellung 101: Fleisch-Pattie wird auf dem Grill angebraten um 17:42
+Bestellung 100: Warme Zutaten fertig an der Vorarbeitstheke um 17:47
+Bestellung 100: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:47
+Bestellung 101: Fleisch-Pattie zieht im Garschrank durch um 17:47
+Bestellung 102: Zuarbeiter*in zugewiesen um 17:47
+Bestellung 102: Zutaten aus Gefrierschrank entnommen nach 0.35 Minuten
+Bestellung 102: Geflügel wird in der Fritteuse zubereitet um 17:48
+Bestellung 101: Warme Zutaten fertig an der Vorarbeitstheke um 17:52
+Bestellung 101: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:52
+Bestellung 103: Zuarbeiter*in zugewiesen um 17:52
+Bestellung 103: Zutaten aus Gefrierschrank entnommen nach 0.17 Minuten
+Bestellung 103: Vegetarisch wird in der Fritteuse zubereitet um 17:52
+Bestellung 102: Warme Zutaten fertig an der Vorarbeitstheke um 17:54
+Bestellung 102: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 17:54
+Bestellung 104: Zuarbeiter*in zugewiesen um 17:54
+Bestellung 104: Zutaten aus Gefrierschrank entnommen nach 0.46 Minuten
+Bestellung 104: Fleisch-Pattie wird auf dem Grill angebraten um 17:54
+Bestellung 104: Fleisch-Pattie zieht im Garschrank durch um 17:57
+Bestellung 103: Warme Zutaten fertig an der Vorarbeitstheke um 18:02
+Bestellung 103: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:02
+Bestellung 105: Zuarbeiter*in zugewiesen um 18:02
+Bestellung 104: Warme Zutaten fertig an der Vorarbeitstheke um 18:02
+Bestellung 104: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:02
+Bestellung 106: Zuarbeiter*in zugewiesen um 18:02
+Bestellung 105: Zutaten aus Gefrierschrank entnommen nach 0.17 Minuten
+Bestellung 105: Geflügel wird in der Fritteuse zubereitet um 18:02
+Bestellung 106: Zutaten aus Gefrierschrank entnommen nach 0.47 Minuten
+Bestellung 106: Vegetarisch wird in der Fritteuse zubereitet um 18:03
+Bestellung 105: Warme Zutaten fertig an der Vorarbeitstheke um 18:08
+Bestellung 105: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:08
+Bestellung 107: Zuarbeiter*in zugewiesen um 18:08
+Bestellung 107: Zutaten aus Gefrierschrank entnommen nach 0.34 Minuten
+Bestellung 107: Vegetarisch wird in der Fritteuse zubereitet um 18:09
+Bestellung 106: Warme Zutaten fertig an der Vorarbeitstheke um 18:12
+Bestellung 106: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:12
+Bestellung 108: Zuarbeiter*in zugewiesen um 18:12
+Bestellung 108: Zutaten aus Gefrierschrank entnommen nach 0.31 Minuten
+Bestellung 108: Fleisch-Pattie wird auf dem Grill angebraten um 18:13
+Bestellung 108: Fleisch-Pattie zieht im Garschrank durch um 18:16
+Bestellung 107: Warme Zutaten fertig an der Vorarbeitstheke um 18:17
+Bestellung 107: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:17
+Bestellung 109: Zuarbeiter*in zugewiesen um 18:17
+Bestellung 109: Zutaten aus Gefrierschrank entnommen nach 0.44 Minuten
+Bestellung 109: Vegetarisch wird in der Fritteuse zubereitet um 18:18
+Bestellung 108: Warme Zutaten fertig an der Vorarbeitstheke um 18:19
+Bestellung 108: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:19
+Bestellung 110: Zuarbeiter*in zugewiesen um 18:19
+Bestellung 110: Zutaten aus Gefrierschrank entnommen nach 0.29 Minuten
+Bestellung 110: Fleisch-Pattie wird auf dem Grill angebraten um 18:19
+Bestellung 110: Fleisch-Pattie zieht im Garschrank durch um 18:22
+Bestellung 109: Warme Zutaten fertig an der Vorarbeitstheke um 18:24
+Bestellung 109: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:24
+Bestellung 111: Zuarbeiter*in zugewiesen um 18:24
+Bestellung 111: Zutaten aus Gefrierschrank entnommen nach 0.34 Minuten
+Bestellung 111: Vegetarisch wird in der Fritteuse zubereitet um 18:24
+Bestellung 110: Warme Zutaten fertig an der Vorarbeitstheke um 18:25
+Bestellung 110: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:25
+Bestellung 112: Zuarbeiter*in zugewiesen um 18:25
+Bestellung 112: Zutaten aus Gefrierschrank entnommen nach 0.34 Minuten
+Bestellung 112: Vegetarisch wird in der Fritteuse zubereitet um 18:25
+Bestellung 112: Warme Zutaten fertig an der Vorarbeitstheke um 18:33
+Bestellung 112: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:33
+Bestellung 113: Zuarbeiter*in zugewiesen um 18:33
+Bestellung 113: Zutaten aus Gefrierschrank entnommen nach 0.39 Minuten
+Bestellung 113: Geflügel wird in der Fritteuse zubereitet um 18:34
+Bestellung 111: Warme Zutaten fertig an der Vorarbeitstheke um 18:34
+Bestellung 111: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:34
+Bestellung 114: Zuarbeiter*in zugewiesen um 18:34
+Bestellung 114: Zutaten aus Gefrierschrank entnommen nach 0.52 Minuten
+Bestellung 114: Geflügel wird in der Fritteuse zubereitet um 18:34
+Bestellung 113: Warme Zutaten fertig an der Vorarbeitstheke um 18:41
+Bestellung 113: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:41
+Bestellung 115: Zuarbeiter*in zugewiesen um 18:41
+Bestellung 114: Warme Zutaten fertig an der Vorarbeitstheke um 18:42
+Bestellung 114: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:42
+Bestellung 116: Zuarbeiter*in zugewiesen um 18:42
+Bestellung 115: Zutaten aus Gefrierschrank entnommen nach 0.54 Minuten
+Bestellung 115: Fleisch-Pattie wird auf dem Grill angebraten um 18:42
+Bestellung 116: Zutaten aus Gefrierschrank entnommen nach 0.31 Minuten
+Bestellung 116: Geflügel wird in der Fritteuse zubereitet um 18:42
+Bestellung 115: Fleisch-Pattie zieht im Garschrank durch um 18:44
+Bestellung 115: Warme Zutaten fertig an der Vorarbeitstheke um 18:48
+Bestellung 115: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:48
+Bestellung 117: Zuarbeiter*in zugewiesen um 18:48
+Bestellung 117: Zutaten aus Gefrierschrank entnommen nach 0.34 Minuten
+Bestellung 117: Geflügel wird in der Fritteuse zubereitet um 18:48
+Bestellung 116: Warme Zutaten fertig an der Vorarbeitstheke um 18:51
+Bestellung 116: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:51
+Bestellung 118: Zuarbeiter*in zugewiesen um 18:51
+Bestellung 118: Zutaten aus Gefrierschrank entnommen nach 0.28 Minuten
+Bestellung 118: Geflügel wird in der Fritteuse zubereitet um 18:51
+Bestellung 117: Warme Zutaten fertig an der Vorarbeitstheke um 18:57
+Bestellung 117: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:57
+Bestellung 119: Zuarbeiter*in zugewiesen um 18:57
+Bestellung 119: Zutaten aus Gefrierschrank entnommen nach 0.68 Minuten
+Bestellung 119: Geflügel wird in der Fritteuse zubereitet um 18:58
+Bestellung 118: Warme Zutaten fertig an der Vorarbeitstheke um 18:59
+Bestellung 118: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 18:59
+Bestellung 120: Zuarbeiter*in zugewiesen um 18:59
+Bestellung 120: Zutaten aus Gefrierschrank entnommen nach 0.50 Minuten
+Bestellung 120: Vegetarisch wird in der Fritteuse zubereitet um 18:59
+Bestellung 119: Warme Zutaten fertig an der Vorarbeitstheke um 19:06
+Bestellung 119: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 19:06
+Bestellung 121: Zuarbeiter*in zugewiesen um 19:06
+Bestellung 121: Zutaten aus Gefrierschrank entnommen nach 0.16 Minuten
+Bestellung 121: Vegetarisch wird in der Fritteuse zubereitet um 19:06
+Bestellung 120: Warme Zutaten fertig an der Vorarbeitstheke um 19:08
+Bestellung 120: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 19:08
+Bestellung 122: Zuarbeiter*in zugewiesen um 19:08
+Bestellung 122: Zutaten aus Gefrierschrank entnommen nach 0.30 Minuten
+Bestellung 122: Fleisch-Pattie wird auf dem Grill angebraten um 19:09
+Bestellung 122: Fleisch-Pattie zieht im Garschrank durch um 19:12
+Bestellung 121: Warme Zutaten fertig an der Vorarbeitstheke um 19:14
+Bestellung 121: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 19:14
+Bestellung 123: Zuarbeiter*in zugewiesen um 19:14
+Bestellung 122: Warme Zutaten fertig an der Vorarbeitstheke um 19:15
+Bestellung 122: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 19:15
+Bestellung 124: Zuarbeiter*in zugewiesen um 19:15
+Bestellung 124: Zutaten aus Gefrierschrank entnommen nach 0.26 Minuten
+Bestellung 124: Fleisch-Pattie wird auf dem Grill angebraten um 19:15
+Bestellung 123: Zutaten aus Gefrierschrank entnommen nach 0.59 Minuten
+Bestellung 123: Geflügel wird in der Fritteuse zubereitet um 19:15
+Bestellung 124: Fleisch-Pattie zieht im Garschrank durch um 19:17
+Bestellung 124: Warme Zutaten fertig an der Vorarbeitstheke um 19:22
+Bestellung 124: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 19:22
+Bestellung 125: Zuarbeiter*in zugewiesen um 19:22
+Bestellung 125: Zutaten aus Gefrierschrank entnommen nach 0.33 Minuten
+Bestellung 125: Vegetarisch wird in der Fritteuse zubereitet um 19:22
+Bestellung 123: Warme Zutaten fertig an der Vorarbeitstheke um 19:23
+Bestellung 123: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 19:23
+Bestellung 126: Zuarbeiter*in zugewiesen um 19:23
+Bestellung 126: Zutaten aus Gefrierschrank entnommen nach 0.42 Minuten
+Bestellung 126: Geflügel wird in der Fritteuse zubereitet um 19:23
+Bestellung 126: Warme Zutaten fertig an der Vorarbeitstheke um 19:30
+Bestellung 126: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 19:30
+Bestellung 127: Zuarbeiter*in zugewiesen um 19:30
+Bestellung 127: Zutaten aus Gefrierschrank entnommen nach 0.31 Minuten
+Bestellung 127: Fleisch-Pattie wird auf dem Grill angebraten um 19:30
+Bestellung 125: Warme Zutaten fertig an der Vorarbeitstheke um 19:31
+Bestellung 125: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 19:31
+Bestellung 128: Zuarbeiter*in zugewiesen um 19:31
+Bestellung 128: Zutaten aus Gefrierschrank entnommen nach 0.30 Minuten
+Bestellung 128: Geflügel wird in der Fritteuse zubereitet um 19:31
+Bestellung 127: Fleisch-Pattie zieht im Garschrank durch um 19:33
+Bestellung 127: Warme Zutaten fertig an der Vorarbeitstheke um 19:36
+Bestellung 127: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 19:36
+Bestellung 129: Zuarbeiter*in zugewiesen um 19:36
+Bestellung 129: Zutaten aus Gefrierschrank entnommen nach 0.64 Minuten
+Bestellung 129: Geflügel wird in der Fritteuse zubereitet um 19:36
+Bestellung 128: Warme Zutaten fertig an der Vorarbeitstheke um 19:40
+Bestellung 128: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 19:40
+Bestellung 130: Zuarbeiter*in zugewiesen um 19:40
+Bestellung 130: Zutaten aus Gefrierschrank entnommen nach 0.48 Minuten
+Bestellung 130: Fleisch-Pattie wird auf dem Grill angebraten um 19:40
+Bestellung 130: Fleisch-Pattie zieht im Garschrank durch um 19:42
+Bestellung 130: Warme Zutaten fertig an der Vorarbeitstheke um 19:46
+Bestellung 130: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 19:46
+Bestellung 131: Zuarbeiter*in zugewiesen um 19:46
+Bestellung 129: Warme Zutaten fertig an der Vorarbeitstheke um 19:46
+Bestellung 129: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 19:46
+Bestellung 132: Zuarbeiter*in zugewiesen um 19:46
+Bestellung 131: Zutaten aus Gefrierschrank entnommen nach 0.28 Minuten
+Bestellung 131: Geflügel wird in der Fritteuse zubereitet um 19:46
+Bestellung 132: Zutaten aus Gefrierschrank entnommen nach 0.34 Minuten
+Bestellung 132: Fleisch-Pattie wird auf dem Grill angebraten um 19:47
+Bestellung 132: Fleisch-Pattie zieht im Garschrank durch um 19:50
+Bestellung 132: Warme Zutaten fertig an der Vorarbeitstheke um 19:54
+Bestellung 132: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 19:54
+Bestellung 133: Zuarbeiter*in zugewiesen um 19:54
+Bestellung 133: Zutaten aus Gefrierschrank entnommen nach 0.24 Minuten
+Bestellung 133: Fleisch-Pattie wird auf dem Grill angebraten um 19:55
+Bestellung 131: Warme Zutaten fertig an der Vorarbeitstheke um 19:56
+Bestellung 131: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 19:56
+Bestellung 134: Zuarbeiter*in zugewiesen um 19:56
+Bestellung 134: Zutaten aus Gefrierschrank entnommen nach 0.40 Minuten
+Bestellung 134: Geflügel wird in der Fritteuse zubereitet um 19:57
+Bestellung 133: Fleisch-Pattie zieht im Garschrank durch um 19:57
+Bestellung 133: Warme Zutaten fertig an der Vorarbeitstheke um 20:01
+Bestellung 133: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 20:01
+Bestellung 135: Zuarbeiter*in zugewiesen um 20:01
+Bestellung 135: Zutaten aus Gefrierschrank entnommen nach 0.27 Minuten
+Bestellung 135: Geflügel wird in der Fritteuse zubereitet um 20:02
+Bestellung 134: Warme Zutaten fertig an der Vorarbeitstheke um 20:06
+Bestellung 134: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 20:06
+Bestellung 136: Zuarbeiter*in zugewiesen um 20:06
+Bestellung 136: Zutaten aus Gefrierschrank entnommen nach 0.46 Minuten
+Bestellung 136: Vegetarisch wird in der Fritteuse zubereitet um 20:06
+Bestellung 135: Warme Zutaten fertig an der Vorarbeitstheke um 20:10
+Bestellung 135: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 20:10
+Bestellung 137: Zuarbeiter*in zugewiesen um 20:10
+Bestellung 137: Zutaten aus Gefrierschrank entnommen nach 0.39 Minuten
+Bestellung 137: Vegetarisch wird in der Fritteuse zubereitet um 20:10
+Bestellung 136: Warme Zutaten fertig an der Vorarbeitstheke um 20:16
+Bestellung 136: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 20:16
+Bestellung 138: Zuarbeiter*in zugewiesen um 20:16
+Bestellung 138: Zutaten aus Gefrierschrank entnommen nach 0.44 Minuten
+Bestellung 138: Geflügel wird in der Fritteuse zubereitet um 20:16
+Bestellung 137: Warme Zutaten fertig an der Vorarbeitstheke um 20:20
+Bestellung 137: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 20:20
+Bestellung 138: Warme Zutaten fertig an der Vorarbeitstheke um 20:24
+Bestellung 138: Beginne Zusammenbau frühestens 5 Minuten vor Abholzeit um 20:24

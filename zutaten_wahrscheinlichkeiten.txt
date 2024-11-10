@@ -1,0 +1,55 @@
+Ergebnisse für Bun:
+ Bun  Häufigkeit  Wahrscheinlichkeit
+   1        1000                 1.0
+--------------------------------------------------
+Ergebnisse für Patty:
+ Patty  Häufigkeit  Wahrscheinlichkeit
+     1         523               0.523
+     2         477               0.477
+--------------------------------------------------
+Ergebnisse für Gewuerz:
+ Gewuerz  Häufigkeit  Wahrscheinlichkeit
+       0         347               0.347
+       1         393               0.393
+       2         200               0.200
+       3          57               0.057
+       5           3               0.003
+--------------------------------------------------
+Ergebnisse für Kaese:
+ Kaese  Häufigkeit  Wahrscheinlichkeit
+     0         385               0.385
+     1         390               0.390
+     2         168               0.168
+     3          55               0.055
+     5           2               0.002
+--------------------------------------------------
+Ergebnisse für Bacon:
+ Bacon  Häufigkeit  Wahrscheinlichkeit
+     0         341               0.341
+     1         429               0.429
+     2         228               0.228
+     3           2               0.002
+--------------------------------------------------
+Ergebnisse für Salat:
+ Salat  Häufigkeit  Wahrscheinlichkeit
+     0         158               0.158
+     1         702               0.702
+     2         139               0.139
+     3           1               0.001
+--------------------------------------------------
+Ergebnisse für Gemuese:
+ Gemuese  Häufigkeit  Wahrscheinlichkeit
+       0         136               0.136
+       1         278               0.278
+       2         255               0.255
+       3         188               0.188
+       4          97               0.097
+       5          46               0.046
+--------------------------------------------------
+Ergebnisse für Sauce:
+ Sauce  Häufigkeit  Wahrscheinlichkeit
+     0           1               0.001
+     1         162               0.162
+     2         692               0.692
+     3         145               0.145
+--------------------------------------------------
